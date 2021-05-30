@@ -1,5 +1,5 @@
 ---
-layout: amaposts
+layout: allposts
 title: AMA
 landing-title: 'Ask Me Anything!'
 nav-menu: true
