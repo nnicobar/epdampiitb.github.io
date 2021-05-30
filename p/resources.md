@@ -1,7 +1,7 @@
 ---
-layout: posts
-title: AMA
-landing-title: 'Ask Me Anything!'
+layout: post
+title: Resources
+landing-title: 'Resources'
 nav-menu: false
 description: null
 image: null
