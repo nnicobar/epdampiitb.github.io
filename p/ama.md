@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: amaposts
 title: AMA
 landing-title: 'Ask Me Anything!'
 nav-menu: true
@@ -11,7 +11,7 @@ show_tile: false
 
 <h2>Ask Me Anything!</h2>
 
-13th April 2018: [Prof. Sai Vinjanampathy](/ama/
+13th April 2018: Prof. Sai Vinjanampathy
 
 04 September 2018: Prof. Gopal Dixit
 
