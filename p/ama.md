@@ -2,7 +2,7 @@
 layout: allposts
 title: AMA
 landing-title: 'Ask Me Anything!'
-nav-menu: true
+nav-menu: false
 description: null
 image: null
 author: null
