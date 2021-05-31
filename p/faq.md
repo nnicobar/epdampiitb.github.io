@@ -13,13 +13,13 @@ show_tile: true
 	<div class="inner">
 		<header class="major"-->
 <h2>General:</h2>
-		<!--/header-->
+		<!-- /header -->
     
 <b><i>Where can I find the BTech/DD curriculum?</i></b>
 
 The current BTech/DD curriculum of Engineering Physics (last updated November 2020) can be found [here](https://www.phy.iitb.ac.in/en/current-students/resources).
 
-<b><i>What if there’s a slot clash of a core course with an elective that I want to take?</b></i>
+<b><i>What if there’s a slot clash of a core course with an elective that I want to take?</i></b>
 
 The DGSec floats a form of electives so that batches can get courses in slots which are prefered by most of the students of that batch.
 If even after this there’s quite a good number of students (say around 15) who want to take a course but there’s a slot clash, your CR can talk to the concerned prof and request him/her to change the slot to one of your prefered slots (if other registered students don’t have any pains).
@@ -51,7 +51,7 @@ Instead of 2 6 credit courses for institute electives, you can do 8 credit cours
 	<div class="inner">
 		<header class="major"-->
 <h2>Minor:</h2>
-		<!--/header-->
+		<!-- /header -->
 
 <b><i>What is a minor? How would pursuing a minor help me?</i></b>
 
@@ -89,7 +89,7 @@ No, you do not need to repeat the course. However, an ‘FR’ grade in the cour
 	<div class="inner">
 		<header class="major"-->
 <h2>Honours:</h2>
-		<!--/header-->
+		<!-- /header -->
 
 <b><i>What is an honor? Why should I do it?</i></b>
 
