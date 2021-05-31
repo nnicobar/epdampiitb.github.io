@@ -2,7 +2,7 @@
 layout: post
 title: Alumni Directory
 landing-title: 'Alumni Directory'
-nav-menu: true
+nav-menu: false
 description: null
 image: null
 author: null
