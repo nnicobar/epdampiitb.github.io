@@ -8,7 +8,8 @@ show_tile: true
 ---
 
 
-<h2>General:</h2>
+<h2>General</h2>
+<hr>
 		    
 <b><i>Where can I find the BTech/DD curriculum?</i></b>
 
@@ -41,7 +42,9 @@ Courses of almost all departments except ENT, IDC & MG can easily be tagged as I
 Instead of 2 6 credit courses for institute electives, you can do 8 credit courses too. Just the total should be >= 12 credits.
 
 
-<h2>Minor:</h2>
+<h2>Minor</h2>
+hr>
+<hr>
 
 <b><i>What is a minor? How would pursuing a minor help me?</i></b>
 
@@ -74,7 +77,8 @@ No. When you complete your minor, a Minor CPI will reflect on your transcript.
 No, you do not need to repeat the course. However, an ‘FR’ grade in the course will reflect under the additional courses done.
 
 
-<h2>Honours:</h2>
+<h2>Honours</h2>
+<hr>
 
 <b><i>What is an honor? Why should I do it?</i></b>
 
