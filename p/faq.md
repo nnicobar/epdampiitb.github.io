@@ -11,9 +11,9 @@ show_tile: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!--header class="major"-->
 			<h2>General:</h2>
-		</header>
+		<!--/header-->
     
 <b><i>Where can I find the BTech/DD curriculum?</i></b>
 
@@ -49,9 +49,9 @@ Instead of 2 6 credit courses for institute electives, you can do 8 credit cours
 <!-- Two -->
 <section id="two">
 	<div class="inner">
-		<header class="major">
+		<!--header class="major"-->
 			<h2>Minor:</h2>
-		</header>
+		<!--/header-->
 
 <b><i>What is a minor? How would pursuing a minor help me?</i></b>
 
@@ -87,9 +87,9 @@ No, you do not need to repeat the course. However, an ‘FR’ grade in the cour
 <!-- Three -->
 <section id="three">
 	<div class="inner">
-		<header class="major">
+		<!--header class="major"-->
 			<h2>Honours:</h2>
-		</header>
+		<!--/header-->
 
 <b><i>What is an honor? Why should I do it?</i></b>
 
