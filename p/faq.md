@@ -43,7 +43,6 @@ Instead of 2 6 credit courses for institute electives, you can do 8 credit cours
 
 
 <h2>Minor</h2>
-hr>
 <hr>
 
 <b><i>What is a minor? How would pursuing a minor help me?</i></b>
