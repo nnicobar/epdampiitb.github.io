@@ -8,13 +8,8 @@ show_tile: true
 ---
 
 
-<!-- One >
-<section id="one">
-	<div class="inner">
-		<header class="major"-->
 <h2>General:</h2>
-		<!-- /header -->
-    
+		    
 <b><i>Where can I find the BTech/DD curriculum?</i></b>
 
 The current BTech/DD curriculum of Engineering Physics (last updated November 2020) can be found [here](https://www.phy.iitb.ac.in/en/current-students/resources).
@@ -46,12 +41,7 @@ Courses of almost all departments except ENT, IDC & MG can easily be tagged as I
 Instead of 2 6 credit courses for institute electives, you can do 8 credit courses too. Just the total should be >= 12 credits.
 
 
-<!-- Two >
-<section id="two">
-	<div class="inner">
-		<header class="major"-->
 <h2>Minor:</h2>
-		<!-- /header -->
 
 <b><i>What is a minor? How would pursuing a minor help me?</i></b>
 
@@ -84,12 +74,7 @@ No. When you complete your minor, a Minor CPI will reflect on your transcript.
 No, you do not need to repeat the course. However, an ‘FR’ grade in the course will reflect under the additional courses done.
 
 
-<!-- Three >
-<section id="three">
-	<div class="inner">
-		<header class="major"-->
 <h2>Honours:</h2>
-		<!-- /header -->
 
 <b><i>What is an honor? Why should I do it?</i></b>
 
