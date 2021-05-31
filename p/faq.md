@@ -8,10 +8,10 @@ show_tile: true
 ---
 
 
-<!-- One -->
+<!-- One >
 <section id="one">
 	<div class="inner">
-		<!--header class="major"-->
+		<header class="major"-->
 			<h2>General:</h2>
 		<!--/header-->
     
@@ -46,10 +46,10 @@ Courses of almost all departments except ENT, IDC & MG can easily be tagged as I
 Instead of 2 6 credit courses for institute electives, you can do 8 credit courses too. Just the total should be >= 12 credits.
 
 
-<!-- Two -->
+<!-- Two >
 <section id="two">
 	<div class="inner">
-		<!--header class="major"-->
+		<header class="major"-->
 			<h2>Minor:</h2>
 		<!--/header-->
 
@@ -84,10 +84,10 @@ No. When you complete your minor, a Minor CPI will reflect on your transcript.
 No, you do not need to repeat the course. However, an ‘FR’ grade in the course will reflect under the additional courses done.
 
 
-<!-- Three -->
+<!-- Three >
 <section id="three">
 	<div class="inner">
-		<!--header class="major"-->
+		<header class="major"-->
 			<h2>Honours:</h2>
 		<!--/header-->
 
