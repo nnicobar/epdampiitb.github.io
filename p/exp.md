@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Experiences
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: Seniors talk about their internships and research projects
+image: assets/images/Experiences.jpg
 nav-menu: true
 show_tile: true
 ---
