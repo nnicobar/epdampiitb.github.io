@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Experiences
-description: Seniors talk about their internships and research projects
+description: Seniors talk about their internships, research projects and positions of responsibility
 image: assets/images/Experiences.jpg
 nav-menu: true
 show_tile: true
@@ -31,7 +31,7 @@ show_tile: true
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Industry Internships</h3>
+		<h3>Non-Core Internships</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -39,7 +39,7 @@ show_tile: true
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Non-Core</h3>
+		<h3>PORs</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 </div>
