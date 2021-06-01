@@ -5,20 +5,10 @@ description: Lorem etiam nullam
 image: assets/images/pic03.jpg
 ---
 
-![test image]({{ site.url | absolute_path}}/assets/images/pic03.jpg)
+Prof. Archana Pai has been working with gravitational waves since 1996, when she started her PhD with the legendary Prof. Sanjeev Dhurandhar. At that time, in her words, “we were working as mathematicians - injecting compact coalescent binary signals and trying to detect them with our algorithms, essentially doing work ‘of the future’, which would be realized almost 20 years later.” Today, she is a member of the LIGO collaboration and has worked with the VIRGO collaboration, and is also a key member of the LIGO India effort. 
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat.
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris.
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Her current research interests are statistical signal processing of gravitational wave signals, detection and astrophysics of gravitational waves from binary black holes with interferometric detectors and multi-messenger astronomy.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.
+<i>1. What do you think will be the next big thing in your field? How do you plan to be a part of it?</i>
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Observations of binary black hole merger events in gravitational wave window have improved our understanding of <i>[(Read More)](https://epdampiitb.github.io/p/kaleidoscope/ama/3.html)
