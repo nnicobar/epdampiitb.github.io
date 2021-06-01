@@ -2,7 +2,7 @@
 layout: post
 title: Prof. Varun Bhalerao
 description: Feugiat amet tempus
-image: assets/images/pic02.jpg
+image: assets/images/vb.jpg
 ---
 
 Prof. Varun Bhalerao is an alumnus of IIT Bombay. He completed his BTech degree in Electrical Engineering from IIT Bombay in 2006. He then pursued his MS and PhD in Astrophysics at Caltech. As an astrophysicist, his interests are in studies of transient astrophysical sources like supernova explosions, gamma-ray bursts, etc. He is also working to build new instruments including ground-based optical telescopes, space-based X-Ray telescopes and even a satellite. He is also interested in searching for the electromagnetic counterpart of the gravitational wave sources.
