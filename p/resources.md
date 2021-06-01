@@ -3,8 +3,8 @@ layout: post
 title: Resources
 landing-title: 'Resources'
 nav-menu: false
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: Use LDAP Login to access past papers, lecture notes and other study material
+image: assets/images/Resources.jpg
 author: null
 show_tile: true
 ---
