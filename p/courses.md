@@ -22,24 +22,24 @@ show_tile: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/core.html">Core Courses</a></h3>
-		<p>Compulsary courses that everyone has to take to complete thir degree, they count towards your cpi</p>
+		<p>Compulsary courses that everyone in the depratment has to take to complete thir degree. They count towards one's cpi</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/de.html">Department Electives</a></h3>
-		<p>One is expected to take four department electives during their degree, they count towards your cpi</p>
+		<p>One is expected to take four department electives during their degree (this number might change, see the Physics Booklet below). They count towards one's cpi.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/ie.html">Institute Electives</a></h3>
-		<p>Three institute electives are to be taken during the degree (might change, see the physics booklet below), they count towards your cpi</p>
+		<p>Three institute electives are to be taken during the degree (this number might change, see the Physics Booklet below). They count towards one's cpi.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/minor.html">Minor courses</a></h3>
-		<p>These are courses from other departments that you pre-register for, they do not count towards your main cpi</p>
+		<p>These are courses from other departments that you pre-register for. They do not count towards one's main cpi.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/hss.html">HSS Electives</a></h3>
-		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and philosophy</p>
+		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and Philosophy.</p>
 	</div>
 </div>
 
