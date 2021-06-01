@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Courses
 description: Course Reviews for Core Courses, Minors and Electives
 image: assets/images/Courses.jpg
@@ -22,24 +22,24 @@ show_tile: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/corecourses.html" target="_blank">Core Courses</a></h3>
-		<p></p>
+		<p>Compulsary courses that everyone has to take to complete thir degree, they count towards your cpi</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/departmentelectives.html" target="_blank">Department Electives</a></h3>
-		<p></p>
+		<p>One is expected to take four department electives during their degree, they count towards your cpi</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/instituteelectives.html" target="_blank">Institute Electives</a></h3>
-		<p></p>
+		<p>Three institute electives are to be taken during the degree (might change, see the physics booklet below), they count towards your cpi</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/minorcourses.html" target="_blank">Minor courses</a></h3>
-		<p></p>
+		<p>These are courses from other departments that you pre-register for, they do not count towards your main cpi</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/hsselectives.html" target="_blank">HSS Electives</a></h3>
-		<p></p>
+		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and philosophy</p>
 	</div>
 </div>
 
