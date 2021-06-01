@@ -2,7 +2,7 @@
 layout: post
 title: Prof. Gopal Dixit
 description: Nisl sed aliquam
-image: assets/images/pic04.jpg
+image: assets/images/gd.png
 ---
 
 Research Interests:
