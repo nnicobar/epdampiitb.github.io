@@ -18,7 +18,7 @@ show_tile: true
 		</header>
 
 <!-- Content -->
-
+<div class="row">
 	<div class="6u 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/exp/projects.html">Research Projects</a></h3>
 		<p>Seniors review their BTPs, SLPs, SURPs and other research projects done within the institute</p>
