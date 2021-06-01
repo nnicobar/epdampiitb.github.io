@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Courses
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: Course Reviews for Core Courses, Minors and Electives
+image: assets/images/Courses.jpeg
 nav-menu: true
 show_tile: true
 ---
