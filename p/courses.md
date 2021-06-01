@@ -39,7 +39,7 @@ show_tile: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/hss.html">HSS Electives</a></h3>
-		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and Philosophy. They count towards one's main cpi.</p>
+		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and Philosophy. It counts towards one's main cpi.</p>
 	</div>
 </div>
 
