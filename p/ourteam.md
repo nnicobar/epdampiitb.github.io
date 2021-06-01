@@ -1,8 +1,8 @@
 ---
 title: Our Team
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: Find out who your DAMP mentors and coordinators are
+image: assets/images/OurTeam.jpeg
 nav-menu: false
 show_tile: true
 ---
