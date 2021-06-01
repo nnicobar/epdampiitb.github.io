@@ -18,11 +18,11 @@ show_tile: true
 		</header>
 
 <!-- Content -->
-<p>Course reviews have been sorted by course category, for more information about the categories and tagging rules please refer to the booklets given in <a href="https://epdampiitb.github.io/p/resources.html">Resources</a></p>
+<p>Course reviews have been sorted by course category. For more information about the categories and tagging rules please refer to the booklets given in <a href="https://epdampiitb.github.io/p/resources.html">Resources</a></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/core.html">Core Courses</a></h3>
-		<p>Compulsary courses that everyone in the depratment has to take to complete their degree. They count towards one's main cpi</p>
+		<p>Compulsary courses that everyone in the depratment has to take to complete their degree. They count towards one's main cpi.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/de.html">Department Electives</a></h3>
