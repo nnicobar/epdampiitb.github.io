@@ -21,42 +21,26 @@ show_tile: true
 <p>Course reviews have been sorted by course category, for more information about the categories and tagging rules please refer to the booklets given below (last updated June 2021) </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3><a href="https://epdampiitb.github.io/p/courses/corecourses.html" target="_blank">Core Courses</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/courses/corecourses.html">Core Courses</a></h3>
 		<p>Compulsary courses that everyone has to take to complete thir degree, they count towards your cpi</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3><a href="https://epdampiitb.github.io/p/courses/departmentelectives.html" target="_blank">Department Electives</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/courses/departmentelectives.html">Department Electives</a></h3>
 		<p>One is expected to take four department electives during their degree, they count towards your cpi</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3><a href="https://epdampiitb.github.io/p/courses/instituteelectives.html" target="_blank">Institute Electives</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/courses/instituteelectives.html">Institute Electives</a></h3>
 		<p>Three institute electives are to be taken during the degree (might change, see the physics booklet below), they count towards your cpi</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3><a href="https://epdampiitb.github.io/p/courses/minorcourses.html" target="_blank">Minor courses</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/courses/minorcourses.html">Minor courses</a></h3>
 		<p>These are courses from other departments that you pre-register for, they do not count towards your main cpi</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3><a href="https://epdampiitb.github.io/p/courses/hsselectives.html" target="_blank">HSS Electives</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/courses/hsselectives.html">HSS Electives</a></h3>
 		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and philosophy</p>
 	</div>
 </div>
 
-<!-- Two -->
-<section id="two">
-    <div class="inner">
-	<header class="major">
-	    <h2>Information Booklets</h2>
-	</header>
-	<!--p>{{ content }}</p-->
-	<ul class="actions">
-	    <li><a href="../files/sss/phyhandbook.pdf" class="button next" target="_blank">Department Handbook</a></li>
-	    <li><a href="../files/sss/UGInfo.pdf" class="button next" target="_blank">UG Info Booklet</a></li>
-	    <li><a href="../files/sss/cib2020.pdf" class="button next" target="_blank">Course Info Booklet</a></li>
-	</ul>
-    </div>
-</section>
-
-		
 <hr class="major" />
