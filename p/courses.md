@@ -2,7 +2,7 @@
 layout: post
 title: Courses
 description: Course Reviews for Core Courses, Minors and Electives
-image: assets/images/Courses.jpeg
+image: assets/images/Courses.jpg
 nav-menu: true
 show_tile: true
 ---
