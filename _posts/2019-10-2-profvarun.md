@@ -10,6 +10,6 @@ Prof. Varun Bhalerao is an alumnus of IIT Bombay. He completed his BTech degree 
 This is the link to an interview he gave sometime back as a part of the:
 [Know Your Prof initiative of the IIT-Bombay Broadcasting Channel](https://www.youtube.com/watch?v=E8wPuoRLEFE )
 
-<b><i>1. Can you explain your current work in brief?</i></b>
+<i>1. Can you explain your current work in brief?</i>
 
 Our group builds new instruments and uses them to study explosions across the universe. <i>[(Read More)](https://epdampiitb.github.io/p/kaleidoscope/ama/4.html)</i>
