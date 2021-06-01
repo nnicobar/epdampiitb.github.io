@@ -15,7 +15,7 @@ show_tile: true
 	<header class="major">
 	    <h2>Information Booklets</h2>
 	</header>
-	<!--p>{{ content }}</p-->
+	<!--p></p-->
 	<ul class="actions">
 	    <li><a href="../files/sss/phyhandbook.pdf" class="button next" target="_blank">Department Handbook</a></li>
 	    <li><a href="../files/sss/UGInfo.pdf" class="button next" target="_blank">UG Info Booklet</a></li>
