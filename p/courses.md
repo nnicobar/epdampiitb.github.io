@@ -34,7 +34,7 @@ show_tile: true
 		<p>Three institute electives are to be taken during the degree (this number might change, see the Physics Booklet below). They count towards one's main cpi.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3><a href="https://epdampiitb.github.io/p/courses/minor.html">Minor courses</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/courses/minor.html">Minor Courses</a></h3>
 		<p>These are courses from other departments that you pre-register for. They do not count towards one's main cpi.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
