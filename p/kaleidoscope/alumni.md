@@ -1,12 +1,24 @@
 ---
-layout: post
+layout: page
 title: Alumni Directory
-landing-title: 'Alumni Directory'
+description: 
+image: 
 nav-menu: false
-description: null
-image: null
-author: null
 show_tile: false
 ---
 
-<h1>Alumni Directory</h1>
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Alumni Directory</h1>
+		</header>
+
+<!-- Content -->
+<p><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2019/2019list.html">Batch of 2019</a></p>
+    
+<p><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2020/2020list.html">Batch of 2020</a></p>
+    
