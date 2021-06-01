@@ -2,7 +2,7 @@
 layout: post
 title: Prof. Archana Pai
 description: Lorem etiam nullam
-image: assets/images/pic03.jpg
+image: assets/images/apai.jpeg
 ---
 
 Prof. Archana Pai has been working with gravitational waves since 1996, when she started her PhD with the legendary Prof. Sanjeev Dhurandhar. At that time, in her words, “we were working as mathematicians - injecting compact coalescent binary signals and trying to detect them with our algorithms, essentially doing work ‘of the future’, which would be realized almost 20 years later.” Today, she is a member of the LIGO collaboration and has worked with the VIRGO collaboration, and is also a key member of the LIGO India effort. 
