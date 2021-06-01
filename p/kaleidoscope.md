@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Kaleidoscope
 description: AMAs with profs, Alumni Directory, Talks and Information Sessions
 image: assets/images/Kaleidoscope.png
