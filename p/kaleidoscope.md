@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Kaleidoscope
-description: Lorem ipsum dolor est
-image: assets/images/pic01.jpg
+description: AMAs with profs, Alumni Directory, Talks and Information Sessions
+image: assets/images/Kaleidoscope.png
 nav-menu: true
 ---
 
