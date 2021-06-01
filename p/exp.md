@@ -18,29 +18,27 @@ show_tile: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
-<div class="row">
+
 	<div class="6u 12u$(small)">
-		<h3>Research Projects</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3><a href="https://epdampiitb.github.io/p/exp/projects.html">Research Projects</a></h3>
+		<p>Seniors review their BTPs, SLPs, SURPs and other research projects done within the institute</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Research Internships</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3><a href="https://epdampiitb.github.io/p/exp/internships.html">Research Insternships</a></h3>
+		<p>Seniors review their research internships outside IITB and talk about their apping experiences</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Industry Internships</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3><a href="https://epdampiitb.github.io/p/exp/noncore.html">Non-Core Internships</a></h3>
+		<p>Seniors talk about placements and internships in fields like finance, consultancy and analytics</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Semester Exchange</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3><a href="https://epdampiitb.github.io/p/exp/semex.html">Semester Exchange</a></h3>
+		<p>Seniors give some insight into their semester experiences</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Positions of Responsibility</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3><a href="https://epdampiitb.github.io/p/exp/por.html">Positions of Responsibility</a></h3>
+		<p>Seniors talk about stheir PORs in different clubs and teams in the institute</p>
 	</div>
 </div>
 
