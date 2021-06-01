@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core Courses
+title: Department Electives
 description: 
 image: 
 nav-menu: false
@@ -14,7 +14,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Core courses</h1>
+			<h1>Department Electives</h1>
 		</header>
 
 <!-- Content -->
