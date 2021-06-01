@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minor Course
+title: Minor Courses
 description: 
 image: 
 nav-menu: false
