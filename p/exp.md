@@ -34,11 +34,11 @@ show_tile: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/exp/semex.html">Semester Exchange</a></h3>
-		<p>Seniors give some insight into their semester experiences</p>
+		<p>Seniors give some insight into their semester exchange experiences and adventures</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/exp/por.html">Positions of Responsibility</a></h3>
-		<p>Seniors talk about stheir PORs in different clubs and teams in the institute</p>
+		<p>Seniors talk about their PORs in different clubs and teams in the institute</p>
 	</div>
 </div>
 
