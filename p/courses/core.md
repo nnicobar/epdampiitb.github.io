@@ -18,7 +18,7 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<!DOCTYPE html>
+<!--DOCTYPE html>
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -26,7 +26,7 @@ show_tile: false
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body-->
 
 <div class="container">
   <h2>Simple Collapsible</h2>
@@ -40,7 +40,7 @@ show_tile: false
 </div>
 
 </body>
-</html>
+
 		
 <p><a href="https://epdampiitb.github.io/p/courses/core/sem1/sem1list.html">Sem 1</a></p>
 
