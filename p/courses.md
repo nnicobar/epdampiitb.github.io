@@ -22,7 +22,7 @@ show_tile: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/core.html">Core Courses</a></h3>
-		<p>Compulsary courses that everyone in the depratment has to take to complete their degree. They count towards one's main cpi.</p>
+		<p>Compulsory courses that everyone in the depratment has to take to complete their degree. They count towards one's main cpi.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/de.html">Department Electives</a></h3>
