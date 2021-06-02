@@ -19,6 +19,6 @@ show_tile: false
 
 <!-- Content -->
 <ul>
-	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/infosesh/2019.html">2019-20</a>
-	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/infosesh/2020.html">2020-21</a>
+	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/infosesh/2019.html">2019-20</a></li>
+	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/infosesh/2020.html">2020-21</a></li>
 </ul>
