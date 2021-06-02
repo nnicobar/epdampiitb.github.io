@@ -18,7 +18,8 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<p><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2019/2019list.html">Batch of 2019</a></p>
-    
-<p><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2020/2020list.html">Batch of 2020</a></p>
+<ul>
+	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2019/2019list.html">Batch of 2019</a></li>
+	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2020/2020list.html">Batch of 2020</a></li>
+</ul>
     
