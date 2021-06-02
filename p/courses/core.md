@@ -66,3 +66,9 @@ show_tile: false
 <p><a href="https://epdampiitb.github.io/p/courses/core/sem7/sem7list.html">Sem 7</a></p>
 		
 <p><a href="https://epdampiitb.github.io/p/courses/core/sem8/sem8list.html">Sem 8</a></p>
+
+		
+var collapseElementList = [].slice.call(document.querySelectorAll('.collapse'))
+var collapseList = collapseElementList.map(function (collapseEl) {
+  return new bootstrap.Collapse(collapseEl)
+})
