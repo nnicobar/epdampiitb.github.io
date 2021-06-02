@@ -18,9 +18,9 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<!--DOCTYPE html-->
+<!--DOCTYPE html>
 <html>
-<body>
+<body-->
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -70,8 +70,8 @@ show_tile: false
   </div> 
 </div>
     
-</body>
-</html>
+<!--/body>
+</html-->
 
 		
 <p><a href="https://epdampiitb.github.io/p/courses/core/sem1/sem1list.html">Sem 1</a></p>
