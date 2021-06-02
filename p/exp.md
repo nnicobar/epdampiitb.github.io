@@ -24,12 +24,12 @@ show_tile: true
 		<p>Seniors review their BTPs, SLPs, SURPs and other research projects done within the institute</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3><a href="https://epdampiitb.github.io/p/exp/coreinternships.html">Research Insternships</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/exp/coreinternships.html">Research Internships</a></h3>
 		<p>Seniors review their research internships outside IITB and talk about their apping experiences</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3><a href="https://epdampiitb.github.io/p/exp/noncore.html">Non-Core Internships</a></h3>
+		<h3><a href="https://epdampiitb.github.io/p/exp/noncore.html">Industry Internships</a></h3>
 		<p>Seniors talk about placements and internships in fields like finance, consultancy and analytics</p>
 	</div>
 	<div class="4u 12u$(medium)">
