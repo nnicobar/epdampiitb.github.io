@@ -14,7 +14,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Institute Electives</h1>
+			<h2>Institute Electives</h2>
 		</header>
 
 <!-- Content -->
