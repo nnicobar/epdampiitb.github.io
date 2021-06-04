@@ -14,7 +14,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>About Us</h2>
 		</header>
 		<p>The Department Academic Mentorship Programme (DAMP), under the aegis of the Institute Student Mentorship Programme (ISMP), deals with the academic challenges faced by students in undergraduate departments. The programme identifies select senior students from each department to act as mentors for a set of junior students and help them cope with any academic problems they may face in the department or otherwise. The primary aim is to ensure that weak students clear their backlogs and get their academic careers back on track. The DAMP mentors, along with the Faculty Advisors and Department Faculty Coordinators, work towards achieving this goal through early identification and constant monitoring of the students concerned. Besides this, we also conduct various events in the department, such as lab visits, 'fundae' sessions, tutorial-cum-help sessions etc.</p>
 	</div>
