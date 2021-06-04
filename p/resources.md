@@ -9,6 +9,13 @@ author: null
 show_tile: true
 ---
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Resources</h1>
+		</header>
+
 <!-- Two -->
 <section id="two">
     <div class="inner">
