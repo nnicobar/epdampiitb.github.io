@@ -23,4 +23,3 @@ show_tile: true
 	</ul>
     </div>
 </section>
-
