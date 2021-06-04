@@ -42,6 +42,3 @@ show_tile: true
 		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and Philosophy. It counts towards one's main cpi.</p>
 	</div>
 </div>
-
-<hr class="major" />
-		
