@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>AMA</h1>
+<h2>AMA</h2>
