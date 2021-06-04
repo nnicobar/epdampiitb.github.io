@@ -22,4 +22,3 @@ show_tile: false
 	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2019.html">Batch of 2019</a></li>
 	<li><a href="https://epdampiitb.github.io/p/kaleidoscope/alumni/2020.html">Batch of 2020</a></li>
 </ul>
-    
