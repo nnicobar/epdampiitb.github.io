@@ -11,11 +11,11 @@ show_tile: true
 <div id="main" class="alt">
 
 <!-- One -->
-<!--section id="one">
+<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Experiences</h1>
-		</header==>
+		</header>
 
 <!-- Content -->
 <div class="row">
