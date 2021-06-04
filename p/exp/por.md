@@ -14,7 +14,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Positions of Responsibility</h1>
+			<h2>Positions of Responsibility</h2>
 		</header>
 
 <!-- Content -->
