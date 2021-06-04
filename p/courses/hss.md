@@ -18,11 +18,11 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<p><a href="https://epdampiitb.github.io/p/courses/hss/hs305.html">HS 3XX, Literature</a></p>
+<p><a href="https://epdampiitb.github.io/p/courses/hss/hs303.html">HS 3XX, Literature</a></p>
 
 <p><a href="https://epdampiitb.github.io/p/courses/hss/hs305.html">HS 3XX, Psychology</a></p>
 		
-<p><a href="https://epdampiitb.github.io/p/courses/hss/hs305.html">HS 3XX, Sociology</a></p>
+<p><a href="https://epdampiitb.github.io/p/courses/hss/hs307.html">HS 3XX, Sociology</a></p>
 		
-<p><a href="https://epdampiitb.github.io/p/courses/hss/hs305.html">HS 3XX, Philosophy</a></p>
+<p><a href="https://epdampiitb.github.io/p/courses/hss/hs309.html">HS 3XX, Philosophy</a></p>
 		
