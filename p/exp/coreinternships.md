@@ -14,7 +14,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Research Internships</h1>
+			<h2>Research Internships</h2>
 		</header>
 
 <!-- Content -->
