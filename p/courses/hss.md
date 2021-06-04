@@ -18,7 +18,7 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<p><a href="https://epdampiitb.github.io/p/courses/hss/hs305.html">HS 3XX, Reading Literature</a></p>
+<p><a href="https://epdampiitb.github.io/p/courses/hss/hs305.html">HS 3XX, Literature</a></p>
 
 <p><a href="https://epdampiitb.github.io/p/courses/hss/hs305.html">HS 3XX, Psychology</a></p>
 		
