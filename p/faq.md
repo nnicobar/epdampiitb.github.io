@@ -77,7 +77,7 @@ No, you do not need to repeat the course. However, an ‘FR’ grade in the cour
 
 
 <hr>
-<h2>Honours</h2>
+<h2>Honors</h2>
 
 <b><i>What is an honor? Why should I do it?</i></b>
 
