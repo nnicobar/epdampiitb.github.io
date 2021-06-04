@@ -41,5 +41,3 @@ show_tile: true
 		<p>Seniors talk about their PORs in different clubs and teams in the institute</p>
 	</div>
 </div>
-
-<hr class="major" />
