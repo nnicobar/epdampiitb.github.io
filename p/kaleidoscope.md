@@ -41,5 +41,3 @@ nav-menu: true
 		<p>A collection of photographs of our department, events, people and campus</p>
 	</div>
 </div>
-
-<hr class="major" />
