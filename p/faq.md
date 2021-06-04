@@ -106,5 +106,4 @@ Additional Learning Course – Courses from any dept. (including yours) Not coun
 Audit – Courses from any dept. (including yours) Not counted in Core CPI (non-credit courses with only AU and NP grades)
 Sit-Through – Courses from any dept. for which you do not register but attend classes due to interest with the permission of the instructor.
 
-
 <i>Compiled by: Shobhna Misra</i>
