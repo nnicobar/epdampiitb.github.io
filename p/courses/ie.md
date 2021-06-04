@@ -18,7 +18,7 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<p><a href="https://epdampiitb.github.io/p/courses/ie/fallsem/fallielist.html">Fall Sem</a></p>
+<p><a href="https://epdampiitb.github.io/p/courses/ie/fallsem/fallielist.html">Fall Semester</a></p>
 
-<p><a href="https://epdampiitb.github.io/p/courses/ie/springsem/springielist.html">Spring Sem</a></p>
+<p><a href="https://epdampiitb.github.io/p/courses/ie/springsem/springielist.html">Spring Semester</a></p>
 	
