@@ -80,5 +80,5 @@ show_tile: false
 <p><a href="https://epdampiitb.github.io/p/courses/core/sem8/sem8list.html">Sem 8</a></p>
 
 		
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="assets/js/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
