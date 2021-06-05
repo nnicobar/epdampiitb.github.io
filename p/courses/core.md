@@ -13,8 +13,6 @@ show_tile: false
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="sass/components/transitions.scss">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
 
@@ -84,3 +82,7 @@ show_tile: false
 <p><a href="https://epdampiitb.github.io/p/courses/core/sem7/sem7list.html">Sem 7</a></p>
 		
 <p><a href="https://epdampiitb.github.io/p/courses/core/sem8/sem8list.html">Sem 8</a></p>
+
+		
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
