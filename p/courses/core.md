@@ -14,7 +14,6 @@ show_tile: false
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <link rel="stylesheet" href="sass/components/transitions.scss">
 </head>
-<body>
 
 <!-- Main -->
 <div id="main" class="alt">
