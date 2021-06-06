@@ -206,10 +206,10 @@ show_tile: true
 				<center>
 				<ul class="actions">
 					<li><a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a>
-					<a href="mailto:mahadevan.subramanian2432@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a>
+					<!--a href="mailto:mahadevan.subramanian2432@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a-->
 					<a href="https://www.instagram.com/maddysubro2432/" class="button" class="fa fa-2x fa-instagram" target="_blank"></a>
-					<a href="https://www.facebook.com/profile.php?id=100010435631844" class="button" class="fa fa-2x fa-facebook" target="_blank"></a>
-					<a href="https://github.com/mahadevans2432" class="button" class="fa fa-2x fa-github" target="_blank"></a>
+					<!--a href="https://www.facebook.com/profile.php?id=100010435631844" class="button" class="fa fa-2x fa-facebook" target="_blank"></a-->
+					<!--a href="https://github.com/mahadevans2432" class="button" class="fa fa-2x fa-github" target="_blank"></a-->
 					<a href="https://mahadevans2432.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
@@ -229,7 +229,7 @@ show_tile: true
 				<center>
 				<ul class="actions">
 					<li><a href="www.linkedin.com/in/mvakde/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a>
-					<a href="mailto:mvakde12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a>
+					<!--a href="mailto:mvakde12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a-->
 					<a href="https://github.com/mvakde" class="button" class="fa fa-2x fa-github" target="_blank"></a>
 					<a href="mvakde.github.io" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
