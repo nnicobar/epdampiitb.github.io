@@ -205,10 +205,10 @@ show_tile: true
 				<p>Hello there. I am Mahadevan Subramanian and like to listen to vaporwave and hyperpop. I enjoy math and physics quite a lot and in my free time play the keyboard or produce music. I am currently exploring the fields of quantum computing, quantum simulations and quantum optics.</p>
 				<center>
 				<ul class="actions">
-					<li><a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
+					<!--li><a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li-->
 					<li><a href="mailto:mahadevan.subramanian2432@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 					<li><a href="https://www.instagram.com/maddysubro2432/" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
-					<li><a href="https://www.facebook.com/profile.php?id=100010435631844" class="button" class="fa fa-2x fa-facebook" target="_blank"></a></li>
+					<!--li><a href="https://www.facebook.com/profile.php?id=100010435631844" class="button" class="fa fa-2x fa-facebook" target="_blank"></a></li-->
 					<li><a href="https://github.com/mahadevans2432" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
 					<li><a href="https://mahadevans2432.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
