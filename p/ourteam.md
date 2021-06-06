@@ -338,7 +338,7 @@ show_tile: true
 				<header class="major">
 					<h3>Aravind Bharathi</h3>
 				</header>
-				<p>My journey into physics started when the only thing I could do at the cinema was whine about reversed time and entropy. Although, I did find my calling in the study of space science and technology since, there is a 99% chance you will find me anywhere from a History class to a debate on Etymology. I am an avid follower of chess and a huge fan of cycling and apart from being a part of the Satellite Team, I have worked on gravity, geometry and photogrammetry</p>
+				<p>My journey into physics started when the only thing I could do at the cinema was whine about reversed time and entropy. Although later, I did kinda find my calling in exploring the Universe, there still is a 99% chance you will find me anywhere from a History class to a debate on Etymology. I am an avid follower of chess and a huge fan of cycling and apart from being a part of the Satellite Team, I have worked on gravity, geometry and photogrammetry</p>
 				<center>
 				<ul class="actions">
 					<li><a href="https://github.com/aravindbharathi/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
