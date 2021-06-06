@@ -39,9 +39,9 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<!--a href="mailto:16yuktee@gmail.com" class="image"-->
+		<a href="mailto:16yuktee@gmail.com" class="image">
 			<img src="{% link assets/images/team/yuktee.jpg %}" alt="" data-position="top center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -194,9 +194,9 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<!--a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="image"-->
+		<a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="image">
 			<img src="{% link assets/images/team/mahadevan.jpg %}" alt="" data-position="center center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -217,9 +217,9 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<!--a href="www.linkedin.com/in/mvakde/" class="image"-->
+		<a href="www.linkedin.com/in/mvakde/" class="image">
 			<img src="{% link assets/images/team/mithil.jpg %}" alt="" data-position="center center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -241,9 +241,9 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<!--a href="generic.html" class="image"-->
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/team/priyam.jpg %}" alt="" data-position="center center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -311,9 +311,9 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<!--a href="generic.html" class="image"-->
+		<a href="generic.html" class="image"-->
 			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -330,9 +330,9 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<!--a href="https://www.linkedin.com/in/aravind-bharathi/" class="image"-->
+		<a href="https://www.linkedin.com/in/aravind-bharathi/" class="image">
 			<img src="{% link assets/images/team/aravind.jpeg %}" alt="" data-position="center center" />
-		
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
