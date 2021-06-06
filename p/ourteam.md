@@ -47,7 +47,7 @@ show_tile: true
 				<header class="major">
 					<h3>Yuktee Gupta</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hi ! I'm a big time book nerd, chai enthusiast, closeted poet and a humor connoisseur, I can talk for hours about old school youtubers I love!</p>
 				<center>
 				<ul class="actions">
 					<li><a href="mailto:16yuktee@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
@@ -202,10 +202,17 @@ show_tile: true
 				<header class="major">
 					<h3>Mahadevan Subramanian</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hello there. I am Mahadevan Subramanian and like to listen to vaporwave and hyperpop. I enjoy math and physics quite a lot and in my free time play the keyboard or produce music. I am currently exploring the fields of quantum computing, quantum simulations and quantum optics.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a>
+					<a href="mailto:mahadevan.subramanian2432@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a>
+					<a href="https://www.instagram.com/maddysubro2432/" class="button" class="fa fa-2x fa-instagram" target="_blank"></a>
+					<a href="https://www.facebook.com/profile.php?id=100010435631844" class="button" class="fa fa-2x fa-facebook" target="_blank"></a>
+					<a href="https://github.com/mahadevans2432" class="button" class="fa fa-2x fa-github" target="_blank"></a>
+					<a href="https://mahadevans2432.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -218,10 +225,15 @@ show_tile: true
 				<header class="major">
 					<h3>Mithil Vakde</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hi! I'm a third year undergrad with an interest in theoretical physics and a love for dance, volleyball and drumming. I have worked on autonomous drones at UMIC and I have been a part of the Institute dance team that won various competitions. Currently, I'm working on a project in twistronics.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="www.linkedin.com/in/mvakde/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a>
+					<a href="mailto:mvakde12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a>
+					<a href="https://github.com/mvakde" class="button" class="fa fa-2x fa-github" target="_blank"></a>
+					<a href="mvakde.github.io" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -237,10 +249,13 @@ show_tile: true
 				<header class="major">
 					<h3>Priyam Dubey</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Yellow! I'm from Mumbai and a Tennis fan. Average concert-goer and a wallflower at parties. I have a keen interest in how tech, culture and economics affects our future. I like physics but not enough to pursue it as a career choice :). Hmu to find out the best places to hangout in Mumbai.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/priyamdubey" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="https://twitter.com/prxyam" class="button" class="fa fa-2x fa-twitter" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -304,10 +319,13 @@ show_tile: true
 				<header class="major">
 					<h3>Nabeel Ahmed</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Wassup! I enjoy anything and everything from music, writing, travelling, literature, filmmaking to architecture, comedy, improv, design, fashion and theatre. Most notably, I am a huge cinephile and I have a crazy obsession with dance. You might find me in the InSync council organising shows and events.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/_nnicobar" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="nnicobar.github.io" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
