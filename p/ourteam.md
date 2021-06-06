@@ -311,7 +311,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image"-->
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
