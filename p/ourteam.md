@@ -71,7 +71,7 @@ show_tile: true
 		</div>
 	</section>
 	
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
 		<a href="generic.html" class="image">
