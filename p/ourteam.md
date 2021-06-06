@@ -50,7 +50,7 @@ show_tile: true
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="generic.html" class="button" class="fa fa-1x fa-instagram" target="_blank"></a></li>
 				</ul>
 				</center>
 			</div>
@@ -124,7 +124,7 @@ show_tile: true
 		</div>
 	</section>
 	
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
 		<a href="generic.html" class="image">
@@ -175,7 +175,7 @@ show_tile: true
 		</div>
 	</section>
 	
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
 		<a href="generic.html" class="image">
@@ -226,7 +226,7 @@ show_tile: true
 		</div>
 	</section>
 	
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
 		<a href="generic.html" class="image">
@@ -277,7 +277,7 @@ show_tile: true
 		</div>
 	</section>
 	
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
 		<a href="generic.html" class="image">
