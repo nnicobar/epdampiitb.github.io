@@ -336,12 +336,16 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Vaishnav Rao</h3>
+					<h3>Aravind Bharathi</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/aravindbharathi/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
+					<li><a href="https://www.instagram.com/aburstofradium" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="https://aravindbharathi.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
