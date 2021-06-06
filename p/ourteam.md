@@ -217,7 +217,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="www.linkedin.com/in/mvakde/" class="image">
+		<a href="https://www.linkedin.com/in/mvakde/" class="image">
 			<img src="{% link assets/images/team/mithil.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -228,10 +228,10 @@ show_tile: true
 				<p>Hi! I'm a third year undergrad with an interest in theoretical physics and a love for dance, volleyball and drumming. I have worked on autonomous drones at UMIC and I have been a part of the Institute dance team that won various competitions. Currently, I'm working on a project in twistronics.</p>
 				<center>
 				<ul class="actions">
-					<li><a href="www.linkedin.com/in/mvakde/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
+					<li><a href="https://www.linkedin.com/in/mvakde/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
 					<li><a href="mailto:mvakde12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 					<li><a href="https://github.com/mvakde" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
-					<li><a href="mvakde.github.io" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
+					<li><a href="https://mvakde.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
 			</div>
@@ -241,7 +241,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.instagram.com/priyamdubey" class="image">
 			<img src="{% link assets/images/team/priyam.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -311,7 +311,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://nnicobar.github.io/" class="image">
 			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -323,7 +323,7 @@ show_tile: true
 				<center>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/_nnicobar" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
-					<li><a href="nnicobar.github.io" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
+					<li><a href="https://nnicobar.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
 			</div>
