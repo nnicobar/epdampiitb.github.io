@@ -37,7 +37,7 @@ nav-menu: true
 		<p>Find out about our sessions with profs, alumni, scientists and other people who visit our department</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3><a href="https://epdampiitb.github.io/p/kaleidoscope/gallery.html"> Gallery </a></h3>
-		<p>A collection of photographs of our department, events, people and campus</p>
+		<h3>Newsletter</h3>
+		<p>Check out the 2019 physics department newsletter [here](../files/news/news2019.pdf). The [2018 edition](../files/news/news2018.pdf) had to be dug up from the archives while the [2016 edition](../files/news/news2016.pdf) was safe with Insight</p>
 	</div>
 </div>
