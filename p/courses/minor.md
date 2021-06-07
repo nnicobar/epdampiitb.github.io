@@ -18,7 +18,7 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<p><a href="https://epdampiitb.github.io/p/courses/minor/math/mathlist.html">Mathematics</a></p>
+<p><a href="minor/mathlist.html">Mathematics</a></p>
     
-<p><a href="https://epdampiitb.github.io/p/courses/minor/cs/cslist.html">Computer Science</a></p>
+<p><a href="minor/cslist.html">Computer Science</a></p>
 
