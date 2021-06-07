@@ -283,17 +283,17 @@ show_tile: false
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 438</td>
+    <td class="tg-0pky"><a href="sem6/ph438.html">PH 438</a></td>
     <td class="tg-0pky">Statistical Physics</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 444</td>
+    <td class="tg-0pky"><a href="sem6/ph444.html">PH 444</a></td>
     <td class="tg-0pky">Electromagnetic Theory</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 446</td>
+    <td class="tg-0pky"><a href="sem6/ph446.html">PH 446</a></td>
     <td class="tg-0pky">Physics Lab (Solid State and Nuclear Physics)</td>
     <td class="tg-0pky">3</td>
   </tr>
@@ -316,22 +316,22 @@ show_tile: false
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 515</td>
+    <td class="tg-0pky"><a href="sem7/ph515.html">PH 515</a></td>
     <td class="tg-0pky">Introduction to Atomic and Molecular Physics</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 505</td>
+    <td class="tg-0pky"><a href="sem7/ph505.html">PH 505</a></td>
     <td class="tg-0pky">Introduction to Nuclear and Particle Physics</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 517</td>
+    <td class="tg-0pky"><a href="sem7/ph517.html">PH 517</a></td>
     <td class="tg-0pky">Methods in Analytical Techniques</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 447</td>
+    <td class="tg-0pky"><a href="sem7/ph447.html">PH 447</a></td>
     <td class="tg-0pky">Physics Lab (Optics and Spectroscopy)</td>
     <td class="tg-0pky">3</td>
   </tr>
@@ -359,12 +359,12 @@ show_tile: false
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 574</td>
+    <td class="tg-0pky"><a href="sem8/ph536.html">PH 574</a></td>
     <td class="tg-0pky">Physics of Semiconductor Devices</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">HS / ES 200</td>
+    <td class="tg-0pky"><a href="sem8/hs200.html">HS / ES 200</a></td>
     <td class="tg-0pky">Environment Studies</td>
     <td class="tg-0pky">6</td>
   </tr>
