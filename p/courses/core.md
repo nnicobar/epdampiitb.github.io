@@ -19,359 +19,77 @@ show_tile: false
 
 <!-- Content Try Bootstrap Accordian-->
 		
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-73oq">Course Code</th>
-    <th class="tg-73oq">Course Title</th>
-    <th class="tg-73oq">Credits</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-  </tr>
-  <tr>
-    <td class="tg-mqa1" colspan="3">Semester 1</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[CH 105](sem1/ch105.html)</td>
-    <td class="tg-73oq">Organic and Inorganic Chemistry</td>
-    <td class="tg-73oq">4</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[CH 107](sem1/ch107.html)</td>
-    <td class="tg-73oq">Physical Chemistry</td>
-    <td class="tg-73oq">4</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[CS 101](sem1/cs101.html)</td>
-    <td class="tg-73oq">Computer Programming and Utilisation</td>
-    <td class="tg-73oq">6</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[MA 109](sem1/ma109.html)</td>
-    <td class="tg-73oq">Calculus I</td>
-    <td class="tg-73oq">4</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[MA 111](sem1/ma111.html)</td>
-    <td class="tg-73oq">Calculus II</td>
-    <td class="tg-73oq">4</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[ME 113](sem1/me113.html)</td>
-    <td class="tg-73oq">Workshop Practice</td>
-    <td class="tg-73oq">4</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[PH 107](sem1/ph107.html)</td>
-    <td class="tg-73oq">Quantum Physics and Applications</td>
-    <td class="tg-73oq">6</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">[PH 117](sem1/ph117.html)</td>
-    <td class="tg-73oq">Physics Lab</td>
-    <td class="tg-73oq">3</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">NOCS01</td>
-    <td class="tg-73oq">NCC / NSS / NSO</td>
-    <td class="tg-73oq">0</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-    <td class="tg-73oq"></td>
-  </tr>
-  <tr>
-    <td class="tg-mqa1" colspan="3">Semester 2</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">BB 101</td>
-    <td class="tg-73oq">Biology</td>
-    <td class="tg-73oq">6</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">EE 112</td>
-    <td class="tg-73oq">Introduction to Electronics - DIC</td>
-    <td class="tg-73oq">6</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">MA 106</td>
-    <td class="tg-73oq">Linear Algebra</td>
-    <td class="tg-73oq">4</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">MA 108</td>
-    <td class="tg-73oq">Ordinary Differential Equations I</td>
-    <td class="tg-73oq">4</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">ME 119</td>
-    <td class="tg-73oq">Engineering Graphics and Drawing</td>
-    <td class="tg-73oq">5</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">PH 108</td>
-    <td class="tg-73oq">Basics of Electricity and Magnetism</td>
-    <td class="tg-73oq">6</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">CH 117</td>
-    <td class="tg-73oq">Chemistry Lab</td>
-    <td class="tg-73oq">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">NOCS02</td>
-    <td class="tg-0pky">NCC / NSS / NSO</td>
-    <td class="tg-0pky">0</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt" colspan="3">Semester 3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 207</td>
-    <td class="tg-0pky">Introduction to Special Theory of Relativity</td>
-    <td class="tg-0pky">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 215</td>
-    <td class="tg-0pky">Thermal Physics</td>
-    <td class="tg-0pky">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 217</td>
-    <td class="tg-0pky">Classical Mechanics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 219</td>
-    <td class="tg-0pky">Data Analysis and Interpretation</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">HS 101</td>
-    <td class="tg-0pky">Economics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">MA 205</td>
-    <td class="tg-0pky">Complex Analysis</td>
-    <td class="tg-0pky">4</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">MA 207</td>
-    <td class="tg-0pky">Ordinary Differential Equation II</td>
-    <td class="tg-0pky">4</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">EE 224</td>
-    <td class="tg-0pky">Digital Systems</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt" colspan="3">Semester 4</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 202</td>
-    <td class="tg-0pky">Waves, Oscillations and Optics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 204</td>
-    <td class="tg-0pky">Quantum Mechanics I</td>
-    <td class="tg-0pky">8</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">MA 214</td>
-    <td class="tg-0pky">Numerical Analysis</td>
-    <td class="tg-0pky">8</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH&nbsp;&nbsp;231</td>
-    <td class="tg-0pky">Electronics Lab I (Basic Circuits)</td>
-    <td class="tg-0pky">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 233</td>
-    <td class="tg-0pky">Electronics Lab II (Op-amp Circuits)</td>
-    <td class="tg-0pky">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 232</td>
-    <td class="tg-0pky">General Physics Lab</td>
-    <td class="tg-0pky">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt" colspan="3">Semester 5</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 421</td>
-    <td class="tg-0pky">Photonics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 423</td>
-    <td class="tg-0pky">Quantum Mechanics II</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Open Elective</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">HS 3xx</td>
-    <td class="tg-0pky">HSS Core Course</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 230</td>
-    <td class="tg-0pky">Electronics Lab III (Digital Electronics)</td>
-    <td class="tg-0pky">5</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 435</td>
-    <td class="tg-0pky">Electronics Lab IV (Microprocessors)</td>
-    <td class="tg-0pky">5</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt" colspan="3">Semester 6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Department Elective I</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Institute Elective I</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 436</td>
-    <td class="tg-0pky">Introduction to Condensed Matter Physics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 438</td>
-    <td class="tg-0pky">Statistical Physics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 444</td>
-    <td class="tg-0pky">Electromagnetic Theory</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 446</td>
-    <td class="tg-0pky">Physics Lab (Solid State and Nuclear Physics)</td>
-    <td class="tg-0pky">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-7btt" colspan="3">Semester 7</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">Institute Elective II</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">BTP I or Department Elective II</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 515</td>
-    <td class="tg-0pky">Introduction to Atomic and Molecular Physics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 505</td>
-    <td class="tg-0pky">Introduction to Nuclear and Particle Physics</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PH 517</td>
-    <td class="tg-0pky">Methods in Analytical Techniques</td>
-    <td class="tg-0pky">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">PH 447</td>
-    <td class="tg-0lax">Physics Lab (Optics and Spectroscopy)</td>
-    <td class="tg-0lax">3</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-amwm" colspan="3">Semester 8</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Institute Elective III</td>
-    <td class="tg-0lax">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">BTP II or Department Elective III</td>
-    <td class="tg-0lax">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Department Elective IV</td>
-    <td class="tg-0lax">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">PH 574</td>
-    <td class="tg-0lax">Physics of Semiconductor Devices</td>
-    <td class="tg-0lax">6</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">HS / ES 200</td>
-    <td class="tg-0lax">Environment Studies</td>
-    <td class="tg-0lax">6</td>
-  </tr>
-</tbody>
-</table>
+| Course Code | Course Title                                  | Credits |
+|-------------|-----------------------------------------------|---------|
+|             |                                               |         |
+|  Semester 1 |                                               |         |
+| CH 105      | Organic and Inorganic Chemistry               | 4       |
+| CH 107      | Physical Chemistry                            | 4       |
+| CS 101      | Computer Programming and Utilisation          | 6       |
+| MA 109      | Calculus I                                    | 4       |
+| MA 111      | Calculus II                                   | 4       |
+| ME 113      | Workshop Practice                             | 4       |
+| PH 107      | Quantum Physics and Applications              | 6       |
+| PH 117      | Physics Lab                                   | 3       |
+| NOCS01      | NCC / NSS / NSO                               | 0       |
+|             |                                               |         |
+|  Semester 2 |                                               |         |
+| BB 101      | Biology                                       | 6       |
+| EE 112      | Introduction to Electronics - DIC             | 6       |
+| MA 106      | Linear Algebra                                | 4       |
+| MA 108      | Ordinary Differential Equations I             | 4       |
+| ME 119      | Engineering Graphics and Drawing              | 5       |
+| PH 108      | Basics of Electricity and Magnetism           | 6       |
+| CH 117      | Chemistry Lab                                 | 3       |
+| NOCS02      | NCC / NSS / NSO                               | 0       |
+|             |                                               |         |
+|  Semester 3 |                                               |         |
+| PH 207      | Introduction to Special Theory of Relativity  | 3       |
+| PH 215      | Thermal Physics                               | 3       |
+| PH 217      | Classical Mechanics                           | 6       |
+| PH 219      | Data Analysis and Interpretation              | 6       |
+| HS 101      | Economics                                     | 6       |
+| MA 205      | Complex Analysis                              | 4       |
+| MA 207      | Ordinary Differential Equation II             | 4       |
+| EE 224      | Digital Systems                               | 6       |
+|             |                                               |         |
+|  Semester 4 |                                               |         |
+| PH 202      | Waves, Oscillations and Optics                | 6       |
+| PH 204      | Quantum Mechanics I                           | 8       |
+| MA 214      | Numerical Analysis                            | 8       |
+| PH  231     | Electronics Lab I (Basic Circuits)            | 3       |
+| PH 233      | Electronics Lab II (Op-amp Circuits)          | 3       |
+| PH 232      | General Physics Lab                           | 3       |
+|             |                                               |         |
+|  Semester 5 |                                               |         |
+| PH 421      | Photonics                                     | 6       |
+| PH 423      | Quantum Mechanics II                          | 6       |
+|             | Open Elective                                 | 6       |
+| HS 3xx      | HSS Core Course                               | 6       |
+| PH 230      | Electronics Lab III (Digital Electronics)     | 5       |
+| PH 435      | Electronics Lab IV (Microprocessors)          | 5       |
+|             |                                               |         |
+|  Semester 6 |                                               |         |
+|             | Department Elective I                         | 6       |
+|             | Institute Elective I                          | 6       |
+| PH 436      | Introduction to Condensed Matter Physics      | 6       |
+| PH 438      | Statistical Physics                           | 6       |
+| PH 444      | Electromagnetic Theory                        | 6       |
+| PH 446      | Physics Lab (Solid State and Nuclear Physics) | 3       |
+|             |                                               |         |
+|  Semester 7 |                                               |         |
+|             | Institute Elective II                         | 6       |
+|             | BTP I or Department Elective II               | 6       |
+| PH 515      | Introduction to Atomic and Molecular Physics  | 6       |
+| PH 505      | Introduction to Nuclear and Particle Physics  | 6       |
+| PH 517      | Methods in Analytical Techniques              | 6       |
+| PH 447      | Physics Lab (Optics and Spectroscopy)         | 3       |
+|             |                                               |         |
+|  Semester 8 |                                               |         |
+|             | Institute Elective III                        | 6       |
+|             | BTP II or Department Elective III             | 6       |
+|             | Department Elective IV                        | 6       |
+| PH 574      | Physics of Semiconductor Devices              | 6       |
+| HS / ES 200 | Environment Studies                           | 6       |
 		
 <i>Source: <a href="/files/sss/phyhandbook.pdf" target="_blank">Department of Physics Course Book</a></i>
