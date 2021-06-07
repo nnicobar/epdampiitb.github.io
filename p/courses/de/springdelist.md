@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring Semesters
+title: Spring Semester
 description: Department Electives
 image: 
 nav-menu: false
