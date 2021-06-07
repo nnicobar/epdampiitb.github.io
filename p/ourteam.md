@@ -31,9 +31,10 @@ show_tile: true
 				<header class="major">
 					<h3>Shreyas Chandgothia</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hey there! I am the current EP DAMP Coordinator, really committed to keep improving the program. I'm from Chandigarh, prefer mountains over beaches and always up for a hiking trip. An ardent follower of most sports, especially Cricket, Tennis and Snooker. Regarding acads, I am equally interested in the fields of Quantum Engineering and Machine Learning, and I aim to pursue an industry career in the latter.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="tel:8570052544" class="button" class="fa fa-2x fa-phone" target="_blank"></a></li>
+					<li><a href="mailto:shreyaschandgothia@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
 			</div>
 		</div>
@@ -178,7 +179,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="generic.html" class="image">
+		<a href="mailto:ambapat365@gmail.com" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -186,9 +187,9 @@ show_tile: true
 				<header class="major">
 					<h3>Aneesh Bapat</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hi! I am a thirdie in the department of Physics. I am enthusiastic about research prospects and I think my interests lie more in applied physics (as of now). I enjoy playing table tennis and am recently learning to cook.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="mailto:ambapat365@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
 			</div>
 		</div>
