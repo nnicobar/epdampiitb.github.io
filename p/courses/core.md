@@ -48,37 +48,37 @@ show_tile: false
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">CH 107</td>
+    <td class="tg-0pky"><a href="sem1/ch107.html">CH 107</a></td>
     <td class="tg-0pky">Physical Chemistry</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">CS 101</td>
+    <td class="tg-0pky"><a href="sem1/cs101.html">CS 101</a></td>
     <td class="tg-0pky">Computer Programming and Utilisation</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 109</td>
+    <td class="tg-0pky"><a href="sem1/ma109.html">MA 109</a></td>
     <td class="tg-0pky">Calculus I</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 111</td>
+    <td class="tg-0pky"><a href="sem1/ma111.html">MA 111</a></td>
     <td class="tg-0pky">Calculus II</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ME 113</td>
+    <td class="tg-0pky"><a href="sem1/me113.html">ME 113</a></td>
     <td class="tg-0pky">Workshop Practice</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 107</td>
+    <td class="tg-0pky"><a href="sem1/ph107.html">PH 107</a></td>
     <td class="tg-0pky">Quantum Physics and Applications</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 117</td>
+    <td class="tg-0pky"><a href="sem1/ph117.html">PH 117</a></td>
     <td class="tg-0pky">Physics Lab</td>
     <td class="tg-0pky">3</td>
   </tr>
@@ -96,37 +96,37 @@ show_tile: false
     <td class="tg-7btt" colspan="3">Semester 2</td>
   </tr>
   <tr>
-    <td class="tg-0pky">BB 101</td>
+    <td class="tg-0pky"><a href="sem2/bb101.html">BB 101</a></td>
     <td class="tg-0pky">Biology</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">EE 112</td>
+    <td class="tg-0pky"><a href="sem2/ee112.html">EE 112</a></td>
     <td class="tg-0pky">Introduction to Electronics - DIC</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 106</td>
+    <td class="tg-0pky"><a href="sem2/ma106.html">MA 106</a></td>
     <td class="tg-0pky">Linear Algebra</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 108</td>
+    <td class="tg-0pky"><a href="sem2/ma 108.html">MA 108</a></td>
     <td class="tg-0pky">Ordinary Differential Equations I</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ME 119</td>
+    <td class="tg-0pky"><a href="sem2/me119.html">ME 119</a></td>
     <td class="tg-0pky">Engineering Graphics and Drawing</td>
     <td class="tg-0pky">5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 108</td>
+    <td class="tg-0pky"><a href="sem2/ph108.html">PH 108</a></td>
     <td class="tg-0pky">Basics of Electricity and Magnetism</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">CH 117</td>
+    <td class="tg-0pky"><a href="sem2/ch117.html">CH 117</a></td>
     <td class="tg-0pky">Chemistry Lab</td>
     <td class="tg-0pky">3</td>
   </tr>
