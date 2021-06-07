@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Spring Semester
 description: Department Electives
 image: 
