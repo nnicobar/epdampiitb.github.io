@@ -18,6 +18,6 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<p><a href="https://epdampiitb.github.io/p/courses/de/falldelist.html">Fall Semester</a></p>
+<p><a href="de/falldelist.html">Fall Semester</a></p>
 
-<p><a href="https://epdampiitb.github.io/p/courses/de/springdelist.html">Spring Semester</a></p>
+<p><a href="de/springdelist.html">Spring Semester</a></p>
