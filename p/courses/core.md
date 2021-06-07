@@ -21,124 +21,120 @@ show_tile: false
 		
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Course Code</th>
-    <th class="tg-0pky">Course Title</th>
-    <th class="tg-0pky">Credits</th>
+    <th class="tg-73oq">Course Code</th>
+    <th class="tg-73oq">Course Title</th>
+    <th class="tg-73oq">Credits</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-7btt" colspan="3">Semester 1</td>
+    <td class="tg-mqa1" colspan="3">Semester 1</td>
   </tr>
   <tr>
-    <td class="tg-0pky">CH 105</td>
-    <td class="tg-0pky">Organic and Inorganic Chemistry</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-73oq">CH 105</td>
+    <td class="tg-73oq">Organic and Inorganic Chemistry</td>
+    <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">CH 107</td>
-    <td class="tg-0pky">Physical Chemistry</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-73oq">CH 107</td>
+    <td class="tg-73oq">Physical Chemistry</td>
+    <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">CS 101</td>
-    <td class="tg-0pky">Computer Programming and Utilisation</td>
-    <td class="tg-0pky">6</td>
+    <td class="tg-73oq">CS 101</td>
+    <td class="tg-73oq">Computer Programming and Utilisation</td>
+    <td class="tg-73oq">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 109</td>
-    <td class="tg-0pky">Calculus I</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-73oq">MA 109</td>
+    <td class="tg-73oq">Calculus I</td>
+    <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 111</td>
-    <td class="tg-0pky">Calculus II</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-73oq">MA 111</td>
+    <td class="tg-73oq">Calculus II</td>
+    <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">ME 113</td>
-    <td class="tg-0pky">Workshop Practice</td>
-    <td class="tg-0pky">4</td>
+    <td class="tg-73oq">ME 113</td>
+    <td class="tg-73oq">Workshop Practice</td>
+    <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 107</td>
-    <td class="tg-0pky">Quantum Physics and Applications</td>
-    <td class="tg-0pky">6</td>
+    <td class="tg-73oq">PH 107</td>
+    <td class="tg-73oq">Quantum Physics and Applications</td>
+    <td class="tg-73oq">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 117</td>
-    <td class="tg-0pky">Physics Lab</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-73oq">PH 117</td>
+    <td class="tg-73oq">Physics Lab</td>
+    <td class="tg-73oq">3</td>
   </tr>
   <tr>
-    <td class="tg-0pky">NOCS01</td>
-    <td class="tg-0pky">NCC / NSS / NSO</td>
-    <td class="tg-0pky">0</td>
+    <td class="tg-73oq">NOCS01</td>
+    <td class="tg-73oq">NCC / NSS / NSO</td>
+    <td class="tg-73oq">0</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
+    <td class="tg-73oq"></td>
   </tr>
 </tbody>
 </table>
