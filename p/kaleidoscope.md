@@ -38,6 +38,6 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Newsletter</h3>
-		<p>Check out the 2019 physics department newsletter [here](../files/news/news2019.pdf). The [2018 edition](../files/news/news2018.pdf) had to be dug up from the archives while the [2016 edition](../files/news/news2016.pdf) was safe with Insight</p>
+		<p>Check out the 2019 physics department newsletter <a href="../files/news/news2019.pdf" target="_blank">here</a>. The <a href="../files/news/news2018.pdf" target="_blank">2018 edition</a> had to be dug up from the archives while the <a href="../files/news/news2016.pdf" target="_blank">2016 edition</a> was safe with Insight</p>
 	</div>
 </div>
