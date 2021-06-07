@@ -111,7 +111,7 @@ show_tile: false
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="sem2/ma 108.html">MA 108</a></td>
+    <td class="tg-0pky"><a href="sem2/ma108.html">MA 108</a></td>
     <td class="tg-0pky">Ordinary Differential Equations I</td>
     <td class="tg-0pky">4</td>
   </tr>
@@ -144,42 +144,42 @@ show_tile: false
     <td class="tg-7btt" colspan="3">Semester 3</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 207</td>
+    <td class="tg-0pky"><a href="sem3/ph207.html">PH 207</a></td>
     <td class="tg-0pky">Introduction to Special Theory of Relativity</td>
     <td class="tg-0pky">3</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 215</td>
+    <td class="tg-0pky"><a href="sem3/ph215.html">PH 215</a></td>
     <td class="tg-0pky">Thermal Physics</td>
     <td class="tg-0pky">3</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 217</td>
+    <td class="tg-0pky"><a href="sem3/ph217.html">PH 217</a></td>
     <td class="tg-0pky">Classical Mechanics</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 219</td>
+    <td class="tg-0pky"><a href="sem3/ph219.html">PH 219</a></td>
     <td class="tg-0pky">Data Analysis and Interpretation</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">HS 101</td>
+    <td class="tg-0pky"><a href="sem3/hs101.html">HS 101</a></td>
     <td class="tg-0pky">Economics</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 205</td>
+    <td class="tg-0pky"><a href="sem3/ma205.html">MA 205</a></td>
     <td class="tg-0pky">Complex Analysis</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 207</td>
+    <td class="tg-0pky"><a href="sem3/ma207.html">MA 207</a></td>
     <td class="tg-0pky">Ordinary Differential Equation II</td>
     <td class="tg-0pky">4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">EE 224</td>
+    <td class="tg-0pky"><a href="sem3/ee224.html">EE 224</a></td>
     <td class="tg-0pky">Digital Systems</td>
     <td class="tg-0pky">6</td>
   </tr>
