@@ -206,10 +206,10 @@ show_tile: true
 				<center>
 				<ul class="actions">
 					<!--li><a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li-->
+					<li><a href="https://github.com/mahadevans2432" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
 					<li><a href="mailto:mahadevan.subramanian2432@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 					<li><a href="https://www.instagram.com/maddysubro2432/" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
 					<!--li><a href="https://www.facebook.com/profile.php?id=100010435631844" class="button" class="fa fa-2x fa-facebook" target="_blank"></a></li-->
-					<li><a href="https://github.com/mahadevans2432" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
 					<li><a href="https://mahadevans2432.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
@@ -228,9 +228,9 @@ show_tile: true
 				<p>Hi! I'm a third year undergrad with an interest in theoretical physics and a love for dance, volleyball and drumming. I have worked on autonomous drones at UMIC and I have been a part of the Institute dance team that won various competitions. Currently, I'm working on a project in twistronics.</p>
 				<center>
 				<ul class="actions">
+					<li><a href="https://github.com/mvakde" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
 					<li><a href="https://www.linkedin.com/in/mvakde/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
 					<li><a href="mailto:mvakde12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
-					<li><a href="https://github.com/mvakde" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
 					<li><a href="https://mvakde.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
