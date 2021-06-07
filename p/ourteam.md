@@ -24,7 +24,7 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/shreyas.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -32,10 +32,12 @@ show_tile: true
 					<h3>Shreyas Chandgothia</h3>
 				</header>
 				<p>Hey there! I am the current EP DAMP Coordinator, really committed to keep improving the program. I'm from Chandigarh, prefer mountains over beaches and always up for a hiking trip. An ardent follower of most sports, especially Cricket, Tennis and Snooker. Regarding acads, I am equally interested in the fields of Quantum Engineering and Machine Learning, and I aim to pursue an industry career in the latter.</p>
+				<center>
 				<ul class="actions">
 					<li><a href="tel:8570052544" class="button" class="fa fa-2x fa-phone" target="_blank"></a></li>
 					<li><a href="mailto:shreyaschandgothia@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -180,7 +182,7 @@ show_tile: true
 	
 	<section>
 		<a href="mailto:ambapat365@gmail.com" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/aneesh.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -188,9 +190,11 @@ show_tile: true
 					<h3>Aneesh Bapat</h3>
 				</header>
 				<p>Hi! I am a thirdie in the department of Physics. I am enthusiastic about research prospects and I think my interests lie more in applied physics (as of now). I enjoy playing table tennis and am recently learning to cook.</p>
+				<center>
 				<ul class="actions">
 					<li><a href="mailto:ambapat365@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
