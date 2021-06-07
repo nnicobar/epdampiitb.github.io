@@ -18,7 +18,16 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-<p><a href="minor/mathlist.html">Mathematics</a></p>
+<p><a href="minor/malist.html">Mathematics</a></p>
     
 <p><a href="minor/cslist.html">Computer Science</a></p>
 
+<p><a href="minor/eelist.html">Electrical Engineering</a></p>
+		
+<p><a href="minor/sclist.html">Systems and Control Engineering</a></p>
+		
+<p><a href="minor/silist.html">Statistics and Informatics</a></p>
+		
+<p><a href="minor/ielist.html">Industrial Engineering and Operations Research</a></p>
+		
+<p><a href="minor/gnrlist.html">Geoinformatics and Natural Resources Engineering</a></p>
