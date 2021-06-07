@@ -192,32 +192,32 @@ show_tile: false
     <td class="tg-7btt" colspan="3">Semester 4</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 202</td>
+    <td class="tg-0pky"><a href="sem4/ph202.html">PH 202</a></td>
     <td class="tg-0pky">Waves, Oscillations and Optics</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 204</td>
+    <td class="tg-0pky"><a href="sem4/ph204.html">PH 204</a></td>
     <td class="tg-0pky">Quantum Mechanics I</td>
     <td class="tg-0pky">8</td>
   </tr>
   <tr>
-    <td class="tg-0pky">MA 214</td>
+    <td class="tg-0pky"><a href="sem4/ma214.html">MA 214</a></td>
     <td class="tg-0pky">Numerical Analysis</td>
     <td class="tg-0pky">8</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH&nbsp;&nbsp;231</td>
+    <td class="tg-0pky"><a href="sem4/ph231.html">PH 231</a></td>
     <td class="tg-0pky">Electronics Lab I (Basic Circuits)</td>
     <td class="tg-0pky">3</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 233</td>
+    <td class="tg-0pky"><a href="sem4/ph233.html">PH 233</a></td>
     <td class="tg-0pky">Electronics Lab II (Op-amp Circuits)</td>
     <td class="tg-0pky">3</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 232</td>
+    <td class="tg-0pky"><a href="sem4/ph232.html">PH 232</a></td>
     <td class="tg-0pky">General Physics Lab</td>
     <td class="tg-0pky">3</td>
   </tr>
@@ -230,12 +230,12 @@ show_tile: false
     <td class="tg-7btt" colspan="3">Semester 5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 421</td>
+    <td class="tg-0pky"><a href="sem5/ph421.html">PH 421</a></td>
     <td class="tg-0pky">Photonics</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 423</td>
+    <td class="tg-0pky"><a href="sem5/ph423.html">PH 423</a></td>
     <td class="tg-0pky">Quantum Mechanics II</td>
     <td class="tg-0pky">6</td>
   </tr>
@@ -245,17 +245,17 @@ show_tile: false
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">HS 3xx</td>
+    <td class="tg-0pky"><a href="./hss.html">HSS 3xx</a></td>
     <td class="tg-0pky">HSS Core Course</td>
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 230</td>
+    <td class="tg-0pky"><a href="sem5/ph230.html">PH 230</a></td>
     <td class="tg-0pky">Electronics Lab III (Digital Electronics)</td>
     <td class="tg-0pky">5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 435</td>
+    <td class="tg-0pky"><a href="sem5/ph435.html">PH 435</a></td>
     <td class="tg-0pky">Electronics Lab IV (Microprocessors)</td>
     <td class="tg-0pky">5</td>
   </tr>
@@ -278,7 +278,7 @@ show_tile: false
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky">PH 436</td>
+    <td class="tg-0pky"><a href="sem6/ph436.html">PH 436</a></td>
     <td class="tg-0pky">Introduction to Condensed Matter Physics</td>
     <td class="tg-0pky">6</td>
   </tr>
