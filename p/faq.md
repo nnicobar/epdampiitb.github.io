@@ -7,12 +7,6 @@ nav-menu: true
 show_tile: true
 ---
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>FAQs</h1>
-		</header>
 
 <hr>
 <h2>General</h2>
