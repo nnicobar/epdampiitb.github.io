@@ -245,7 +245,7 @@ show_tile: false
     <td class="tg-0pky">6</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><a href="./hss.html">HSS 3xx</a></td>
+    <td class="tg-0pky"><a href="./hss.html">HS 3xx</a></td>
     <td class="tg-0pky">HSS Core Course</td>
     <td class="tg-0pky">6</td>
   </tr>
