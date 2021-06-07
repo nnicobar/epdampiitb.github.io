@@ -46,42 +46,42 @@ show_tile: false
     <td class="tg-mqa1" colspan="3">Semester 1</td>
   </tr>
   <tr>
-    <td class="tg-73oq">CH 105</td>
+    <td class="tg-73oq">[CH 105](sem1/ch105.html)</td>
     <td class="tg-73oq">Organic and Inorganic Chemistry</td>
     <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-73oq">CH 107</td>
+    <td class="tg-73oq">[CH 107](sem1/ch107.html)</td>
     <td class="tg-73oq">Physical Chemistry</td>
     <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-73oq">CS 101</td>
+    <td class="tg-73oq">[CS 101](sem1/cs101.html)</td>
     <td class="tg-73oq">Computer Programming and Utilisation</td>
     <td class="tg-73oq">6</td>
   </tr>
   <tr>
-    <td class="tg-73oq">MA 109</td>
+    <td class="tg-73oq">[MA 109](sem1/ma109.html)</td>
     <td class="tg-73oq">Calculus I</td>
     <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-73oq">MA 111</td>
+    <td class="tg-73oq">[MA 111](sem1/ma111.html)</td>
     <td class="tg-73oq">Calculus II</td>
     <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-73oq">ME 113</td>
+    <td class="tg-73oq">[ME 113](sem1/me113.html)</td>
     <td class="tg-73oq">Workshop Practice</td>
     <td class="tg-73oq">4</td>
   </tr>
   <tr>
-    <td class="tg-73oq">PH 107</td>
+    <td class="tg-73oq">[PH 107](sem1/ph107.html)</td>
     <td class="tg-73oq">Quantum Physics and Applications</td>
     <td class="tg-73oq">6</td>
   </tr>
   <tr>
-    <td class="tg-73oq">PH 117</td>
+    <td class="tg-73oq">[PH 117](sem1/ph117.html)</td>
     <td class="tg-73oq">Physics Lab</td>
     <td class="tg-73oq">3</td>
   </tr>
