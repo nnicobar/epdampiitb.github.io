@@ -79,7 +79,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="generic.html" class="image">
+		<a href="http://discord.com/channels/@DrTheoreticalPhysicianMD" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -87,10 +87,14 @@ show_tile: true
 				<header class="major">
 					<h3>Sahas Kamat</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hello there! I'm Sahas, just another EP nerd who's interested in learning anything from evolutionary biology to conflict management. Pre-covid, I'd spend my time swimming, lifting, and travelling. Now I like to eat and sleep. I'm an avid Star Wars fan, always up for a discussion on why Jar Jar is the True Lord of the Sith. My love for good conversation led me to managing AMAs for the DAMP team.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/sahasofthisworld" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="mailto:sahaskamat@iitb.ac.in" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
+					<!--li><a href="https://www.instagram.com/sahasofthisworld" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li-->
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -111,7 +115,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="mailto:anaida.k.ali@gmail.com" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -119,10 +123,12 @@ show_tile: true
 				<header class="major">
 					<h3>Anaida Ali</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hey! I'm a self-proclaimed artist who recently learned to paint, esoteric poet and an avid thinker with a billion thoughts that intersect nowhere. We might disagree here but I hate pizzas. There are a thousand things that interest me. I enjoy anything quantum.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="mailto:anaida.k.ali@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -130,7 +136,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.twitter.com/kaushiks31" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -138,15 +144,18 @@ show_tile: true
 				<header class="major">
 					<h3>Kaushik Singirikonda</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hey!! I am huge travel and sports enthusiast, majorly follow football and cricket but love playing all sports. I enjoy exploring new places  and love long drives.I am currently into quantum technology and quantum information.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="mailto:kaushik.singirikonda@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
+					<li><a href="https://www.twitter.com/kaushiks31" class="button" class="fa fa-2x fa-twitter" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.instagram.com/drishtibaruah" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -155,9 +164,12 @@ show_tile: true
 					<h3>Drishti Baruah</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/drishtibaruah" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="mailto:drishtibaruah1@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
