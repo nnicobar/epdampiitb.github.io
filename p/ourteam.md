@@ -335,7 +335,6 @@ show_tile: true
 				<p>Wassup! I enjoy anything and everything from music, writing, travelling, literature, filmmaking to architecture, comedy, improv, design, fashion and theatre. Most notably, I am a huge cinephile and I have a crazy obsession with dance. You might find me in the InSync council organising shows and events.</p>
 				<center>
 				<ul class="actions">
-					<li><a href="https://www.instagram.com/_nnicobar" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
 					<li><a href="https://nnicobar.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
