@@ -60,7 +60,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href=" https://sites.google.com/view/abhishekkejriwal/home" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -68,10 +68,13 @@ show_tile: true
 				<header class="major">
 					<h3>Abhishek Kejriwal</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hi! I am Abhishek. I am a short skinny guy who loves physics, music, and dogs. Weekends are my favorite part of the week since that's when we have formula 1 races and I'm a crazy f1 geek. I am interested in quantum tech and I believe this field has the potential to revolutionize physics, computer science and electrical engineering.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href=" https://sites.google.com/view/abhishekkejriwal/home" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
+					<li><a href="mailto:abhishek.kejriwal12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -98,7 +101,7 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -113,7 +116,7 @@ show_tile: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section-->
 	<section>
 		<a href="mailto:anaida.k.ali@gmail.com" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
@@ -173,7 +176,7 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -188,7 +191,7 @@ show_tile: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section-->
 	
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
@@ -277,7 +280,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.instagram.com/shourish_725" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -285,14 +288,18 @@ show_tile: true
 				<header class="major">
 					<h3>Shourish Khade</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hello! I'm a third year undergrad from Mumbai. I’m a sports enthusiast and love playing Table Tennis. I'm also a part of the SeDriCa subdivision of Team UMIC that works on developing an autonomous self-driving car. Watching movies, occasional sketching and a tad bit of gaming are some things I like to do in my free time. I enjoy Physics but am exploring other career options as well. Reach out to me anytime if you want to have a chat. Cheers!</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.linkedin.com/in/shourish-khade-07b517193/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
+					<li><a href="https://www.instagram.com/shourish_725" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="mailto:shourishskhade@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -307,12 +314,12 @@ show_tile: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section-->
 	
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://www.instagram.com/vaishnavrao_vvr" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -320,10 +327,15 @@ show_tile: true
 				<header class="major">
 					<h3>Vaishnav Rao</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hi! I'm Vaishnav! An EP third year from Bangalore. Like a generic EP student, I'm in love with theoretical physics and am interested in research. I'm a swimmer and an amateur wildlife photographer. I was on the Inter-IIT Aquatics team back on campus until COVID hit :(  Apart from that, I've served as a convener for Krittika: The Astronomy Club. I'm an avid environmentalist, nature lover, vegan, and animal rights advocate. I'm also a huge fan of Lord of the Rings and other works of JRR Tolkien.</p>
+				<center>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="tel:6364030375" class="button" class="fa fa-2x fa-phone" target="_blank"></a></li>
+					<li><a href="https://www.github.com/vaishnavvrao" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
+					<li><a href="https://www.instagram.com/vaishnavrao_vvr" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="mailto:vaishnavvrao@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
