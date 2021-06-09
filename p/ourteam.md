@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="mailto:shreyaschandgothia@gmail.com" class="image">
 			<img src="{% link assets/images/team/shreyas.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -68,7 +68,7 @@ show_tile: true
 				<header class="major">
 					<h3>Abhishek Kejriwal</h3>
 				</header>
-				<p>Hi! I am Abhishek. I am a short skinny guy who loves physics, music, and dogs. Weekends are my favorite part of the week since that's when we have formula 1 races and I'm a crazy f1 geek. I am interested in quantum tech and I believe this field has the potential to revolutionize physics, computer science and electrical engineering.</p>
+				<p>Hi! I am Abhishek. I am a short skinny guy who loves physics, music, and dogs. Weekends are my favorite part of the week since that's when we have formula 1 races and I'm a crazy F1 geek. I am interested in quantum tech and I believe this field has the potential to revolutionize physics, computer science and electrical engineering.</p>
 				<center>
 				<ul class="actions">
 					<li><a href="mailto:abhishek.kejriwal12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
@@ -90,7 +90,7 @@ show_tile: true
 				<header class="major">
 					<h3>Sahas Kamat</h3>
 				</header>
-				<p>Hello there! I'm Sahas, just another EP nerd who's interested in learning anything from evolutionary biology to conflict management. Pre-covid, I'd spend my time swimming, lifting, and travelling. Now I like to eat and sleep. I'm an avid Star Wars fan, always up for a discussion on why Jar Jar is the True Lord of the Sith. My love for good conversation led me to managing AMAs for the DAMP team.</p>
+				<p>Hello there! I'm Sahas, just another EP nerd who's interested in learning anything from evolutionary biology to conflict management. Pre-covid, I'd spend my time swimming, lifting, and travelling. Now I like to eat and sleep. I'm an avid Star Wars fan, always up for a discussion on why Jar Jar is the True Lord of the Sith. My love for good conversations led me to managing AMAs for the DAMP team.</p>
 				<center>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/sahasofthisworld" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
@@ -147,7 +147,7 @@ show_tile: true
 				<header class="major">
 					<h3>Kaushik Singirikonda</h3>
 				</header>
-				<p>Hey!! I am huge travel and sports enthusiast, majorly follow football and cricket but love playing all sports. I enjoy exploring new places  and love long drives.I am currently into quantum technology and quantum information.</p>
+				<p>Hey!! I am huge a travel and sports enthusiast, who majorly follows football and cricket but loves playing all sports. I enjoy exploring new places  and love long drives. I am currently into quantum technology and quantum information.</p>
 				<center>
 				<ul class="actions">
 					<li><a href="mailto:kaushik.singirikonda@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
@@ -166,7 +166,7 @@ show_tile: true
 				<header class="major">
 					<h3>Drishti Baruah</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hello! I'm your regular Physics enthusiast and I'm particularly passionate about quantum computing. I enjoy music and reading and love dogs (especially mine). Last year I was a convener of the Maths and Physics club and I enjoyed every bit of it!</p>
 				<center>
 				<ul class="actions">
 					<li><a href="https://www.instagram.com/drishtibaruah" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
