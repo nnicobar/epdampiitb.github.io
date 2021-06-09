@@ -71,8 +71,8 @@ show_tile: true
 				<p>Hi! I am Abhishek. I am a short skinny guy who loves physics, music, and dogs. Weekends are my favorite part of the week since that's when we have formula 1 races and I'm a crazy f1 geek. I am interested in quantum tech and I believe this field has the potential to revolutionize physics, computer science and electrical engineering.</p>
 				<center>
 				<ul class="actions">
-					<li><a href=" https://sites.google.com/view/abhishekkejriwal/home" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 					<li><a href="mailto:abhishek.kejriwal12@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
+					<li><a href=" https://sites.google.com/view/abhishekkejriwal/home" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
 			</div>
