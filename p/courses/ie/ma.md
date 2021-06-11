@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spring Semester
+title: Mathematics
 description: Institute Electives
 image: 
 nav-menu: false
@@ -14,7 +14,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Spring Semester Institute Electives</h2>
+			<h2>Department of Mathematics</h2>
 		</header>
 
 <!-- Content -->
