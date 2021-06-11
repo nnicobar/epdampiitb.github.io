@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fall Semester
+title: Electrical Engineering
 description: Institute Electives
 image: 
 nav-menu: false
@@ -14,7 +14,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Fall Semester Institute Electives</h2>
+			<h2>Department of Electrical Engineering</h2>
 		</header>
 
 <!-- Content -->
