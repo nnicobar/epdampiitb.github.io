@@ -20,6 +20,6 @@ show_tile: false
 <!-- Content -->
 
 <center>
-<iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/60ItHLz5WEA">
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/60ItHLz5WEA">
 </iframe>
 </center>
