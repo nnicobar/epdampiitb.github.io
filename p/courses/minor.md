@@ -34,9 +34,9 @@ show_tile: false
 		
 <p><a href="minor/silist.html">Statistics and Informatics</a></p>
 		
-<p><a href="minor/melist.html">Mechanical Engineering</a></p>
+<!--p><a href="minor/melist.html">Mechanical Engineering</a></p>
 		
-<!--p><a href="minor/mmlist.html">Metallurgical Engineering and Materials Science</a></p-->
+<p><a href="minor/mmlist.html">Metallurgical Engineering and Materials Science</a></p-->
 		
 <p><a href="minor/gnrlist.html">Geoinformatics and Natural Resources Engineering</a></p>
 		
