@@ -20,11 +20,11 @@ show_tile: false
 <!-- Content -->
 <p><a href="minor/aelist.html">Aerospace Engineering</a></p>
 		
-<p><a href="minor/bblist.html">Biosciences and Bioengineering</a></p>
+<!--p><a href="minor/bblist.html">Biosciences and Bioengineering</a></p>
 		
 <p><a href="minor/cllist.html">Chemical Engineering</a></p>
 		
-<p><a href="minor/chlist.html">Chemistry</a></p>
+<p><a href="minor/chlist.html">Chemistry</a></p-->
     
 <p><a href="minor/cslist.html">Computer Science</a></p>
 
@@ -36,7 +36,7 @@ show_tile: false
 		
 <p><a href="minor/melist.html">Mechanical Engineering</a></p>
 		
-<p><a href="minor/mmlist.html">Metallurgical Engineering and Materials Science</a></p>
+<!--p><a href="minor/mmlist.html">Metallurgical Engineering and Materials Science</a></p-->
 		
 <p><a href="minor/gnrlist.html">Geoinformatics and Natural Resources Engineering</a></p>
 		
