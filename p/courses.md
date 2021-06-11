@@ -22,23 +22,23 @@ show_tile: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/core.html">Core Courses</a></h3>
-		<p>Compulsory courses that everyone in the depratment has to take to complete their degree. They count towards one's main cpi.</p>
+		<p>Compulsory courses that everyone in the depratment has to take to complete their degree. They count towards one's main CPI.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/de.html">Department Electives</a></h3>
-		<p>One is expected to take four department electives during their degree (this number might change, refer to the Physics Booklet). They count towards one's main cpi.</p>
+		<p>One is expected to take four department electives during their degree (this number might change, refer to the Physics Booklet). They count towards one's main CPI.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/ie.html">Institute Electives</a></h3>
-		<p>Three institute electives are to be taken during the degree (this number might change, refer to the Physics Booklet). They count towards one's main cpi.</p>
+		<p>Three institute electives are to be taken during the degree (this number might change, refer to the Physics Booklet). They count towards one's main CPI.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/minor.html">Minor Courses</a></h3>
-		<p>These are courses from other departments that you pre-register for. They do not count towards one's main cpi.</p>
+		<p>These are courses from other departments that you pre-register for. They do not count towards one's main CPI.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3><a href="https://epdampiitb.github.io/p/courses/hss.html">HSS Electives</a></h3>
-		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and Philosophy. It counts towards one's main cpi.</p>
+		<p>One needs to take one HSS Elective during their degree, and choose between Literature, Sociology, Psychology and Philosophy. It counts towards one's main CPI.</p>
 	</div>
 </div>
