@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="mailto:shreyaschandgothia@gmail.com" class="image" target="_blank">
+		<a href="mailto:shreyaschandgothia@gmail.com" class="image">
 			<img src="{% link assets/images/team/shreyas.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -42,7 +42,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="mailto:16yuktee@gmail.com" class="image" target="_blank">
+		<a href="mailto:16yuktee@gmail.com" class="image">
 			<img src="{% link assets/images/team/yuktee.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -82,7 +82,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="http://discord.com/channels/@DrTheoreticalPhysicianMD" class="image">
+		<a href="http://discord.com/channels/@DrTheoreticalPhysicianMD" class="image" target="_blank">
 			<img src="{% link assets/images/team/sahas.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -102,7 +102,7 @@ show_tile: true
 		</div>
 	</section>
 	<!--section>
-		<a href="generic.html" class="image">
+		<a href="generic.html" class="image" target="_blank">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -139,7 +139,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="https://www.twitter.com/kaushiks31" class="image">
+		<a href="https://www.twitter.com/kaushiks31" class="image" target="_blank">
 			<img src="{% link assets/images/team/kaushik.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -158,7 +158,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.instagram.com/drishtibaruah" class="image">
+		<a href="https://www.instagram.com/drishtibaruah" class="image" target="_blank">
 			<img src="{% link assets/images/team/drishti.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -177,7 +177,7 @@ show_tile: true
 		</div>
 	</section>
 	<!--section>
-		<a href="generic.html" class="image">
+		<a href="generic.html" class="image" target="_blank">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -214,7 +214,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="image">
+		<a href="https://www.linkedin.com/in/mahadevan-subramanian-a3b4291a8/" class="image" target="_blank">
 			<img src="{% link assets/images/team/mahadevan.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -237,7 +237,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.linkedin.com/in/mvakde/" class="image">
+		<a href="https://www.linkedin.com/in/mvakde/" class="image" target="_blank">
 			<img src="{% link assets/images/team/mithil.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -261,7 +261,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="https://www.instagram.com/priyamdubey" class="image">
+		<a href="https://www.instagram.com/priyamdubey" class="image" target="_blank">
 			<img src="{% link assets/images/team/priyam.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -280,7 +280,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.instagram.com/shourish_725" class="image">
+		<a href="https://www.instagram.com/shourish_725" class="image" target="_blank">
 			<img src="{% link assets/images/team/shourish.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -300,7 +300,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.instagram.com/vaishnavrao_vvr" class="image">
+		<a href="https://www.instagram.com/vaishnavrao_vvr" class="image" target="_blank">
 			<img src="{% link assets/images/team/vaishnav.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -324,7 +324,7 @@ show_tile: true
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
-		<a href="https://nnicobar.github.io/" class="image">
+		<a href="https://nnicobar.github.io/" class="image" target="_blank">
 			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -342,7 +342,7 @@ show_tile: true
 		</div>
 	</section>
 	<!--section>
-		<a href="generic.html" class="image">
+		<a href="generic.html" class="image" target="_blank">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -358,7 +358,7 @@ show_tile: true
 		</div>
 	</section-->
 	<section>
-		<a href="https://www.linkedin.com/in/aravind-bharathi/" class="image">
+		<a href="https://www.linkedin.com/in/aravind-bharathi/" class="image" target="_blank">
 			<img src="{% link assets/images/team/aravind.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
