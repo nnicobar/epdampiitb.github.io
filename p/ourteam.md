@@ -61,7 +61,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href=" https://sites.google.com/view/abhishekkejriwal/home" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/team/abhishek.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -83,7 +83,7 @@ show_tile: true
 	
 	<section>
 		<a href="http://discord.com/channels/@DrTheoreticalPhysicianMD" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/sahas.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -119,7 +119,7 @@ show_tile: true
 	</section-->
 	<section>
 		<a href="mailto:anaida.k.ali@gmail.com" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/anaida.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -140,7 +140,7 @@ show_tile: true
 	
 	<section>
 		<a href="https://www.twitter.com/kaushiks31" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/kaushik.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -159,7 +159,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="https://www.instagram.com/drishtibaruah" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/drishti.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -281,7 +281,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="https://www.instagram.com/shourish_725" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/shourish.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -301,7 +301,7 @@ show_tile: true
 	</section>
 	<section>
 		<a href="https://www.instagram.com/vaishnavrao_vvr" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/team/vaishnav.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
