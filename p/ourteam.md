@@ -23,7 +23,7 @@ show_tile: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="mailto:shreyaschandgothia@gmail.com" class="image">
+		<a href="mailto:shreyaschandgothia@gmail.com" class="image" target="_blank">
 			<img src="{% link assets/images/team/shreyas.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -42,7 +42,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href="mailto:16yuktee@gmail.com" class="image">
+		<a href="mailto:16yuktee@gmail.com" class="image" target="_blank">
 			<img src="{% link assets/images/team/yuktee.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -60,7 +60,7 @@ show_tile: true
 		</div>
 	</section>
 	<section>
-		<a href=" https://sites.google.com/view/abhishekkejriwal/home" class="image">
+		<a href=" https://sites.google.com/view/abhishekkejriwal/home" class="image" target="_blank">
 			<img src="{% link assets/images/team/abhishek.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
