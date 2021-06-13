@@ -37,7 +37,7 @@ show_tile: true
 	<header class="major">
 	    <h2>Important Links</h2>
 	</header>
-	<ul class="actions">
+	<ul>
 	    <li><a href="https://www.iitb.ac.in/newacadhome/rulesUG.jsp" target="_blank">IIT Bombay Rules and Regulations</a></li>
 	    <li><a href="https://www.iitb.ac.in/newacadhome/toacadcalender.jsp" target="_blank">Academic Calendar</a></li>
 	    <li><a href="../files/sss/ugrulebook.pdf" target="_blank">UG Rule Book</a></li>
