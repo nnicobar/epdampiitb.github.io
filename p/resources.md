@@ -30,3 +30,17 @@ show_tile: true
 	</ul>
     </div>
 </section>
+		
+<!-- Three -->
+<section id="three">
+    <div class="inner">
+	<header class="major">
+	    <h2>Important Links</h2>
+	</header>
+	<ul class="actions">
+	    <li><a href="https://www.iitb.ac.in/newacadhome/rulesUG.jsp" target="_blank">IIT Bombay Rules and Regulations</a></li>
+	    <li><a href="https://www.iitb.ac.in/newacadhome/toacadcalender.jsp" target="_blank">Academic Calendar</a></li>
+	    <li><a href="../files/sss/ugrulebook.pdf" target="_blank">UG Rule Book</a></li>
+	    <li><a href="https://www.phy.iitb.ac.in/" target="_blank">Department of Physics Website</a></li>
+	    <li><a href="https://www.iitb.ac.in/acad/" target="_blank">Academic Homepage</a></li>
+	</ul>
