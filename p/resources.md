@@ -43,4 +43,9 @@ show_tile: true
 	    <li><a href="https://www.iitb.ac.in/newacadhome/toacadcalender.jsp" target="_blank">Academic Calendar</a></li>
 	    <li><a href="https://www.iitb.ac.in/newacadhome/rulesUG.jsp" target="_blank">IIT Bombay Rules and Regulations</a></li>
 	    <li><a href="../files/sss/ugrulebook.pdf" target="_blank">UG Rule Book</a></li>
+	    <li><a href="https://www.iitb.ac.in/newacadhome/circular.jsp" target="_blank">Circulars</a></li>
+	    <li><a href="https://www.iitb.ac.in/en/about-iit-bombay/iit-bombay-holidays-list" target="_blank">List of Holidays</a></li>
+	    <li><a href="https://www.iitb.ac.in/newacadhome/timetable.jsp" target="_blank">Timetable</a></li>
+	    <li><a href="http://placements.iitb.ac.in/trainingblog/" target="_blank">Internship Blog</a></li>
+	    <li><a href="http://placements.iitb.ac.in/blog/" target="_blank">Placement Blog</a></li>
 	</ul>
