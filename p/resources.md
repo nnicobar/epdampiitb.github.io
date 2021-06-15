@@ -49,5 +49,5 @@ show_tile: true
 	    <li><a href="http://placements.iitb.ac.in/trainingblog/" target="_blank">Internship Blog</a></li>
 	    <li><a href="https://drive.google.com/file/d/12LDC5v3Uw6CI_KmcCErC1kt3yHRm7iGJ/view" target="_blank">Internship Preparation Booklet</a></li>
 	    <li><a href="http://placements.iitb.ac.in/blog/" target="_blank">Placement Blog</a></li>
-	    <li><a href="https://drive.google.com/file/d/1D7f-6LxkEXfNb54ChdtEDiAzb3nM15vD/view" target="_blank">Placements Bluebook</a></li>
+	    <li><a href="https://drive.google.com/file/d/1D7f-6LxkEXfNb54ChdtEDiAzb3nM15vD/view" target="_blank">Placement Bluebook</a></li>
 	</ul>
