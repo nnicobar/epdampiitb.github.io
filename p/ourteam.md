@@ -193,7 +193,7 @@ show_tile: true
 				</ul>
 			</div>
 		</div>
-	</section-->
+	</section>
 	
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
@@ -362,7 +362,7 @@ show_tile: true
 				</ul>
 			</div>
 		</div>
-	</section-->
+	</section>
 	
 	<section>
 		<a href="https://www.linkedin.com/in/aravind-bharathi/" class="image" target="_blank">
