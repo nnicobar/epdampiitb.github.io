@@ -176,7 +176,7 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<!--section>
+	<section>
 		<a href="generic.html" class="image" target="_blank">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -185,9 +185,11 @@ show_tile: true
 				<header class="major">
 					<h3>Sachin Teli</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Hello! I am an EP third year from Nashik. Like many physics students, I want to pursue research and am currently interested in quantum computing and information. I love listening to music and I sing occasionally. I also enjoy playing chess, cricket and squash in my free time. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/sachinpteli/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
+					<li><a href="https://www.instagram.com/_sachinteli_" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="https://www.linkedin.com/in/sachin-teli-09b76719a/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
 				</ul>
 			</div>
 		</div>
@@ -343,7 +345,8 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<!--section>
+	
+	<section>
 		<a href="generic.html" class="image" target="_blank">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -352,13 +355,15 @@ show_tile: true
 				<header class="major">
 					<h3>Harshit Agarwal</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p> Heyaa! I like to think of myself as an avid consumer of the content that is this virtual space. Apart from OTTs and fandoms, I also like to keep up with news pieces. I am pretty curious, to that end, that I chose physics as a career option. Currently on the path of becoming an otaku, courtesy of the online semesters. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="mailto:harshitagarwal0912@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
+					<li><a href="https://www.instagram.com/vaishnavrao_vvr" class="button" class="fa fa-2x fa-instagram" target="_blank"></li>
 				</ul>
 			</div>
 		</div>
 	</section-->
+	
 	<section>
 		<a href="https://www.linkedin.com/in/aravind-bharathi/" class="image" target="_blank">
 			<img src="{% link assets/images/team/aravind.jpeg %}" alt="" data-position="center center" />
