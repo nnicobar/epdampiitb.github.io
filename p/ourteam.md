@@ -358,7 +358,7 @@ show_tile: true
 				<p> Heyaa! I like to think of myself as an avid consumer of the content that is this virtual space. Apart from OTTs and fandoms, I also like to keep up with news pieces. I am pretty curious, to that end, that I chose physics as a career option. Currently on the path of becoming an otaku, courtesy of the online semesters. </p>
 				<ul class="actions">
 					<li><a href="mailto:harshitagarwal0912@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
-					<li><a href="https://www.instagram.com/vaishnavrao_vvr" class="button" class="fa fa-2x fa-instagram" target="_blank"></li>
+					<li><a href="https://www.instagram.com/vaishnavrao_vvr" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
 				</ul>
 			</div>
 		</div>
