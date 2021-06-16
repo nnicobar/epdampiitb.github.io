@@ -111,9 +111,11 @@ show_tile: true
 					<h3>Roshni Singh</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<center>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -186,11 +188,13 @@ show_tile: true
 					<h3>Sachin Teli</h3>
 				</header>
 				<p>Hello! I am an EP third year from Nashik. Like many physics students, I want to pursue research and am currently interested in quantum computing and information. I love listening to music and I sing occasionally. I also enjoy playing chess, cricket and squash in my free time. </p>
+				<center>
 				<ul class="actions">
 					<li><a href="https://github.com/sachinpteli/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
 					<li><a href="https://www.instagram.com/_sachinteli_" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
 					<li><a href="https://www.linkedin.com/in/sachin-teli-09b76719a/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
@@ -301,6 +305,31 @@ show_tile: true
 			</div>
 		</div>
 	</section>
+	
+		<section>
+		<a href="https://nnicobar.github.io/" class="image" target="_blank">
+			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Nabeel Ahmed</h3>
+				</header>
+				<p>Wassup! I enjoy anything and everything from music, writing, travelling, literature, filmmaking to architecture, comedy, improv, design, fashion and theatre. Most notably, I am a huge cinephile and I have a crazy obsession with dance. You might find me in the InSync council organising shows and events.</p>
+				<center>
+				<ul class="actions">
+					<li><a href="https://www.linkedin.com/in/nnicobar/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
+					<li><a href="https://github.com/nnicobar/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
+					<li><a href="https://nnicobar.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
+				</ul>
+				</center>
+			</div>
+		</div>
+	</section>
+	
+
+<!-- ++++++++++++++++++++++++++++++++ -->
+	
 	<section>
 		<a href="https://www.instagram.com/vaishnavrao_vvr" class="image" target="_blank">
 			<img src="{% link assets/images/team/vaishnav.jpg %}" alt="" data-position="center center" />
@@ -323,28 +352,6 @@ show_tile: true
 		</div>
 	</section>
 	
-<!-- ++++++++++++++++++++++++++++++++ -->
-	
-	<section>
-		<a href="https://nnicobar.github.io/" class="image" target="_blank">
-			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Nabeel Ahmed</h3>
-				</header>
-				<p>Wassup! I enjoy anything and everything from music, writing, travelling, literature, filmmaking to architecture, comedy, improv, design, fashion and theatre. Most notably, I am a huge cinephile and I have a crazy obsession with dance. You might find me in the InSync council organising shows and events.</p>
-				<center>
-				<ul class="actions">
-					<li><a href="https://www.linkedin.com/in/nnicobar/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
-					<li><a href="https://github.com/nnicobar/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
-					<li><a href="https://nnicobar.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
-				</ul>
-				</center>
-			</div>
-		</div>
-	</section>
 	
 	<section>
 		<a href="generic.html" class="image" target="_blank">
@@ -356,10 +363,12 @@ show_tile: true
 					<h3>Harshit Agarwal</h3>
 				</header>
 				<p> Heyaa! I like to think of myself as an avid consumer of the content that is this virtual space. Apart from OTTs and fandoms, I also like to keep up with news pieces. I am pretty curious, to that end, that I chose physics as a career option. Currently on the path of becoming an otaku, courtesy of the online semesters. </p>
+				<center>
 				<ul class="actions">
 					<li><a href="mailto:harshitagarwal0912@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
 					<li><a href="https://www.instagram.com/vaishnavrao_vvr" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
 				</ul>
+				</center>
 			</div>
 		</div>
 	</section>
