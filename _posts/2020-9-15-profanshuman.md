@@ -2,7 +2,7 @@
 layout: post
 title: Prof. Anshuman Kumar
 description: Ipsum dolor sit amet
-image: assets/images/ak.jpg
+image: assets/images/ak.png
 ---
 
 Professor Anshuman Kumar is an alumnus of IIT Bombay. He graduated with a B.Tech-M.Tech Dual Degree in Engineering Physics from IIT Bombay in 2010. He then completed his PhD in Nanophotonics at MIT in Feb 2016. His research interests lie in the intersection of quantum optics and condensed matter for low dimensional systems, in the experimental and theoretical aspects of photonics in 2D materials and topological insulators. 
