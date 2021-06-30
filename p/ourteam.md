@@ -304,6 +304,7 @@ show_tile: true
 				</center>
 			</div>
 		</div>
+	</section>
 	<section>
 		<a href="generic.html" class="image" target="_blank">
 			<img src="{% link assets/images/team/harshit.jpeg %}" alt="" data-position="center center" />
