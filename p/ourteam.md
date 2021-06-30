@@ -304,30 +304,26 @@ show_tile: true
 				</center>
 			</div>
 		</div>
-	</section>
-	
-		<section>
-		<a href="https://nnicobar.github.io/" class="image" target="_blank">
-			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
+	<section>
+		<a href="generic.html" class="image" target="_blank">
+			<img src="{% link assets/images/team/harshit.jpeg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Nabeel Ahmed</h3>
+					<h3>Harshit Agarwal</h3>
 				</header>
-				<p>Wassup! I enjoy anything and everything from music, writing, travelling, literature, filmmaking to architecture, comedy, improv, design, fashion and theatre. Most notably, I am a huge cinephile and I have a crazy obsession with dance. You might find me in the InSync council organising shows and events.</p>
+				<p> Heyaa! I like to think of myself as an avid consumer of the content that is this virtual space. Apart from OTTs and fandoms, I also like to keep up with news pieces. I am pretty curious, to that end, that I chose physics as a career option. Currently on the path of becoming an otaku, courtesy of the online semesters. </p>
 				<center>
 				<ul class="actions">
-					<li><a href="https://www.linkedin.com/in/nnicobar/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
-					<li><a href="https://github.com/nnicobar/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
-					<li><a href="https://nnicobar.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
+					<li><a href="mailto:harshitagarwal0912@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
+					<li><a href="https://www.instagram.com/vaishnavrao_vvr" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
 				</ul>
 				</center>
 			</div>
 		</div>
 	</section>
 	
-
 <!-- ++++++++++++++++++++++++++++++++ -->
 	
 	<section>
@@ -351,28 +347,26 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	
-	
 	<section>
-		<a href="generic.html" class="image" target="_blank">
-			<img src="{% link assets/images/team/harshit.jpeg %}" alt="" data-position="center center" />
+		<a href="https://nnicobar.github.io/" class="image" target="_blank">
+			<img src="{% link assets/images/team/nabeel.JPG %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Harshit Agarwal</h3>
+					<h3>Nabeel Ahmed</h3>
 				</header>
-				<p> Heyaa! I like to think of myself as an avid consumer of the content that is this virtual space. Apart from OTTs and fandoms, I also like to keep up with news pieces. I am pretty curious, to that end, that I chose physics as a career option. Currently on the path of becoming an otaku, courtesy of the online semesters. </p>
+				<p>Wassup! I enjoy anything and everything from music, writing, travelling, literature, filmmaking to architecture, comedy, improv, design, fashion and theatre. Most notably, I am a huge cinephile and I have a crazy obsession with dance. You might find me in the InSync council organising shows and events.</p>
 				<center>
 				<ul class="actions">
-					<li><a href="mailto:harshitagarwal0912@gmail.com" class="button" class="fa fa-2x fa-envelope" target="_blank"></a></li>
-					<li><a href="https://www.instagram.com/vaishnavrao_vvr" class="button" class="fa fa-2x fa-instagram" target="_blank"></a></li>
+					<li><a href="https://www.linkedin.com/in/nnicobar/" class="button" class="fa fa-2x fa-linkedin" target="_blank"></a></li>
+					<li><a href="https://github.com/nnicobar/" class="button" class="fa fa-2x fa-github" target="_blank"></a></li>
+					<li><a href="https://nnicobar.github.io/" class="button" class="fa fa-2x fa-link" target="_blank"></a></li>
 				</ul>
 				</center>
 			</div>
 		</div>
 	</section>
-	
 	<section>
 		<a href="https://www.linkedin.com/in/aravind-bharathi/" class="image" target="_blank">
 			<img src="{% link assets/images/team/aravind.jpeg %}" alt="" data-position="center center" />
