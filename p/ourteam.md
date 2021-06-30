@@ -101,7 +101,7 @@ show_tile: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!--section>
 		<a href="generic.html" class="image" target="_blank">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
@@ -118,7 +118,7 @@ show_tile: true
 				</center>
 			</div>
 		</div>
-	</section>
+	</section-->
 	<section>
 		<a href="mailto:anaida.k.ali@gmail.com" class="image">
 			<img src="{% link assets/images/team/anaida.jpg %}" alt="" data-position="center center" />
